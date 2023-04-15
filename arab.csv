@@ -1,0 +1,382 @@
+,Danceability,Mode,Energy,Key,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration (ms),ID_CHECK,Song name,Artist,Album,ID
+0,0.71,0,0.634,9,-6.187,0.0423,0.74,0.0168,0.293,0.569,117.908,120280,2ACZWbzw9Ts1OcdUm7iEv2,Flowers,Andre Soueid,Flowers,2ACZWbzw9Ts1OcdUm7iEv2
+1,0.453,1,0.0741,7,-19.614,0.0704,0.842,0.625,0.154,0.24,78.747,368584,0BtpoYEMZmf7UshsWf2kk1,Bab Al-Amal,Naseer Shamma,ABWAB,0BtpoYEMZmf7UshsWf2kk1
+2,0.248,0,0.393,9,-15.735,0.035,0.418,0.908,0.104,0.53,188.859,152816,2jkrGagEAt8WrQ6NyF8Lsy,Leila,Clarissa Bitar,Leila,2jkrGagEAt8WrQ6NyF8Lsy
+3,0.667,0,0.491,7,-11.505,0.0346,0.602,0.0336,0.134,0.328,96.07,200428,4SEBwtTvMcr3cEepMx615O,Waed Menni - Mako Menni,Andre Soueid,Waed Menni - Mako Menni,4SEBwtTvMcr3cEepMx615O
+4,0.519,0,0.362,4,-13.074,0.0528,0.897,0.681,0.0936,0.845,136.488,423040,3swuxKVpQZXjhnH4OhRbgJ,Wedding,Sumak Trio,Ein Sof,3swuxKVpQZXjhnH4OhRbgJ
+5,0.53,1,0.247,5,-14.875,0.0794,0.816,0.771,0.0965,0.361,124.64,762667,0jEJtvXKKMiCbPM4oxhagq,Fôg El-Nakhel,Munir Bashir,Duo de 'ûd,0jEJtvXKKMiCbPM4oxhagq
+6,0.799,0,0.513,10,-12.769,0.0838,0.00835,0.88,0.0878,0.307,114.991,604050,6L6Ec14wqbSe9SHmLV7BsJ,Chased - Abel Ray & Daniel Sehnawi English Rework,Adnan Joubran,Chased / Remixes,6L6Ec14wqbSe9SHmLV7BsJ
+7,0.711,0,0.497,9,-16.315,0.0338,0.13,0.905,0.107,0.171,109.968,196364,74XuRalgQ4MRLOt30Y3R6c,Shine Again,Baha Yetkin,Shine Again,74XuRalgQ4MRLOt30Y3R6c
+8,0.526,1,0.285,0,-14.188,0.0632,0.906,0.847,0.0916,0.564,121.202,461307,6dQLMeJ9MAGBuf5Fxc7Dqy,Samai Nahawand - Mother and Son,Sumak Trio,Ein Sof,6dQLMeJ9MAGBuf5Fxc7Dqy
+9,0.609,0,0.7,10,-7.304,0.0377,0.138,0.568,0.128,0.392,89.99,213738,63BMldQAjrTJuEGMHwaMeM,Bliss,Hisham Kharma,Bliss,63BMldQAjrTJuEGMHwaMeM
+10,0.365,0,0.949,5,-3.128,0.0391,0.338,0.71,0.709,0.803,88.939,527387,0h412ITPjKM88ux0dDiN3Q,"Pharaon - Live In Budapest, Hungary/ 2014",Omar Bashir,The Legend Live In Concert,0h412ITPjKM88ux0dDiN3Q
+11,0.634,0,0.576,0,-11.993,0.0363,0.888,0.903,0.164,0.615,160.035,297721,35kpXNnYQMIn1hRonAmO77,Ritual ( Nay & Oud ),Yasser Farouk,Arabic Music Background,35kpXNnYQMIn1hRonAmO77
+12,0.611,0,0.859,7,-5.704,0.0995,0.603,0.699,0.0814,0.837,121.898,379930,4euVQxi2mhAOfJAJzFmHNG,El Nasseem,Nesma,El Nasseem (Oriental Dance Music Volume 3),4euVQxi2mhAOfJAJzFmHNG
+13,0.613,0,0.366,0,-13.795,0.0491,0.861,0.863,0.107,0.491,123.111,269940,0izmNKhsS5HgKPTCKdNSQ0,Big Fish - Instrumentale,Karim Baggili,Kali City,0izmNKhsS5HgKPTCKdNSQ0
+14,0.271,0,0.26,10,-20.431,0.0376,0.799,0.944,0.105,0.0383,123.879,83957,5sTI61B2BG4FXXdRGbvWpY,Burning Sun,Invadable Harmony,Journey Through the Desert,5sTI61B2BG4FXXdRGbvWpY
+15,0.766,0,0.54,7,-9.262,0.0347,0.472,0.943,0.0885,0.746,113.375,344250,2uPKBG61IdiVNoCP7mFCIq,Mihrimah,Billy Esteban,Mediterranean Sunset,2uPKBG61IdiVNoCP7mFCIq
+16,0.524,0,0.251,10,-13.968,0.0383,0.909,0.853,0.106,0.197,100.399,414400,5EkDLDIL11VTzvR7RvaTmN,Letter 1. Eastern Love – Sinan,Rahim AlHaj,Letters from Iraq: Oud and String Quintet,5EkDLDIL11VTzvR7RvaTmN
+17,0.713,1,0.819,0,-6.954,0.0951,0.25,0.104,0.104,0.775,110.015,278510,1EC90zzmplV4kvNEfOu91N,Babi Meyanse,Mario Kirlis,Oriental Dreams,1EC90zzmplV4kvNEfOu91N
+18,0.396,1,0.681,9,-15.893,0.0458,0.0449,0.714,0.0892,0.822,188.059,220102,0LBVGlKHSZpGhfSbU9VQCH,Saharah,Various Artists,Most Beautiful Songs 2,0LBVGlKHSZpGhfSbU9VQCH
+19,0.432,0,0.787,4,-5.305,0.0484,0.243,0.0454,0.308,0.817,141.045,397587,5OKillct8q6A7ZmgcyiVTC,Ushaq Masri,Mario Kirlis,Al Qawa,5OKillct8q6A7ZmgcyiVTC
+20,0.437,0,0.394,2,-11.34,0.0437,0.854,0.928,0.102,0.726,82.923,367360,0XRnYF7K2NOgUvCV30eHCS,Semaai Nahawand,Twais,Insan,0XRnYF7K2NOgUvCV30eHCS
+21,0.526,0,0.676,0,-8.99,0.0294,0.854,0.832,0.0889,0.641,126.754,247747,0QQFyCICPFLF14WK7t1ppf,Romantic Story,Majid Nazempour,Ziryab,0QQFyCICPFLF14WK7t1ppf
+22,0.599,1,0.747,7,-7.049,0.0491,0.597,0.927,0.0906,0.838,172.001,240080,6CAhSsfBQqdJvFpbNiCEZl,Raheel,Andre Hajj Ensemble,Instrumental Music from Lebanon,6CAhSsfBQqdJvFpbNiCEZl
+23,0.732,1,0.437,0,-11.062,0.0439,0.842,0.7,0.108,0.923,136.608,208227,5sfI8bFL05qkf7vfUooDte,Andaloussian Dance [Morocco],Various Artists,Oriental Violin - Middle eastern instrumental music,5sfI8bFL05qkf7vfUooDte
+24,0.457,1,0.322,5,-10.794,0.0367,0.97,0.432,0.165,0.804,100.011,214621,75miTyQi6XsDMZK7yUIhg3,Oman,Various Artists,Mehdi Rajabian: Middle Eastern,75miTyQi6XsDMZK7yUIhg3
+25,0.478,1,0.456,7,-13.153,0.0581,0.107,0.906,0.242,0.572,130.767,373990,2Gz1j3sTWTrt10dXBerwEn,Quick Five,The Khoury Project,Revelation,2Gz1j3sTWTrt10dXBerwEn
+26,0.36,0,0.0592,0,-22.885,0.0429,0.985,0.906,0.055,0.131,82.627,481507,06KoWveyWUuK1BGVU4a0Es,Le pas du chat noir,Anouar Brahem,Le pas du chat noir,06KoWveyWUuK1BGVU4a0Es
+27,0.487,1,0.326,10,-14.927,0.044,0.661,0.853,0.106,0.0974,123.183,323293,3dSmRxR1BLGWSIoj7uT6OO,Clay,Le Trio Joubran,The Long March,3dSmRxR1BLGWSIoj7uT6OO
+28,0.474,1,0.597,0,-5.925,0.0524,0.586,0.224,0.168,0.636,108.158,655200,5GS2tMdi4YPB3IsGnvd5CF,El Helwa Di,Zakariya Ahmed,Arabian Nights (Traditional Arabic Music),5GS2tMdi4YPB3IsGnvd5CF
+29,0.606,0,0.43,5,-14.166,0.0425,0.821,0.937,0.119,0.0619,143.97,343507,5lLGeplEFzXERBCSlWo0zk,The Lost Dream,Amr Ismail,Rahil Trance,5lLGeplEFzXERBCSlWo0zk
+30,0.569,0,0.241,9,-17.284,0.0301,0.764,0.711,0.207,0.513,134.674,168556,6umTalGUDF1hSmH6TAjRkB,Leqaa,Omar Khairat,Rabsoudeya Arabeya,6umTalGUDF1hSmH6TAjRkB
+31,0.556,0,0.0416,0,-17.97,0.0577,0.425,0.1,0.0585,0.0377,151.945,213627,6HjqswZXM1CqdBUgW0dhfS,Khoutwa Baad Mountassaf El Leil,Munir Bachir,Aoud Around the Arab World,6HjqswZXM1CqdBUgW0dhfS
+32,0.222,0,0.154,1,-17.758,0.0448,0.979,0.959,0.102,0.0794,72.456,616387,1HKWbRWyRWI21GlA4IV2lE,Sad Violin,Yasser Farouk,Sad Ney (Instrumental),1HKWbRWyRWI21GlA4IV2lE
+33,0.362,0,0.387,0,-14.468,0.0362,0.732,0.2,0.0648,0.552,138.592,416107,6rvZ1AaesN7IvzD01JKkmx,Rahil,Various Artists,Rough Guide To Arabic Revolution,6rvZ1AaesN7IvzD01JKkmx
+34,0.568,0,0.293,8,-13.398,0.031,0.286,0.155,0.0683,0.373,115.808,324560,2GtbWH6Q7J0gAJaaU4koCC,Nahr El Khoof,Omar Khairat,"The Music of Egypt, Vol. 2",2GtbWH6Q7J0gAJaaU4koCC
+35,0.199,0,0.0796,2,-29.703,0.041,0.924,0.644,0.131,0.0351,111.298,119019,0kNsh9Wh111Kzxdegm7uaB,Sahara,Invadable Harmony,Sahara,0kNsh9Wh111Kzxdegm7uaB
+36,0.386,1,0.385,0,-11.776,0.0264,0.56,0.156,0.0861,0.451,82.602,287544,6InQzKC4DmAJfHxrp5Xvgi,Horop,Omar Khairat,Fatma,6InQzKC4DmAJfHxrp5Xvgi
+37,0.495,0,0.297,9,-17.725,0.0353,0.749,0.7,0.346,0.242,125.814,258067,6Nk9DxpuZuvPY2d2bEkmzM,Habibaty,Ahmed El Gibaly,Gawaher 2,6Nk9DxpuZuvPY2d2bEkmzM
+38,0.521,0,0.267,4,-15.631,0.0288,0.89,0.959,0.277,0.0672,135.983,252587,0PkIaXc5uAxRD3CuOpX996,Sahraan,Ibrahim Kawala,Takasim Kawala 4,0PkIaXc5uAxRD3CuOpX996
+39,0.663,0,0.371,9,-9.431,0.0309,0.632,0.957,0.143,0.12,69.992,329120,5at5hhpoTabgA4VdWUQJLj,Habibatey,Amr Ismail,Arabesque Remix,5at5hhpoTabgA4VdWUQJLj
+40,0.642,0,0.409,4,-14.645,0.0325,0.61,0.87,0.103,0.375,143.965,428222,5zKoRVSbZ3UQJX9Son7eJK,Souvenir,Mohamed Rouane,Un homme libre,5zKoRVSbZ3UQJX9Son7eJK
+41,0.547,0,0.277,0,-14.406,0.0536,0.883,0.843,0.117,0.354,84.199,222347,63WySSsHddPwCrmochU19z,Give Me the Flute - Aatini Ennay,Hosam Hayek,Stranger in My Homeland,63WySSsHddPwCrmochU19z
+42,0.653,0,0.503,7,-9.244,0.0345,0.576,0.628,0.164,0.573,136.046,210227,2MiN6Mp0MeU173suFaKcHH,Mirage - Sarab,Hosam Hayek,Stranger in My Homeland,2MiN6Mp0MeU173suFaKcHH
+43,0.171,0,0.234,2,-12.01,0.0366,0.481,0.921,0.112,0.0375,91.821,120940,4KgqloCRugDL8mocZcfidf,Badaya,Yasser Abdel Rahman,Lailat Al Baby Doll,4KgqloCRugDL8mocZcfidf
+44,0.401,0,0.496,2,-10.477,0.0314,0.619,0.904,0.141,0.432,78.06,152920,210aqQHhAbCBLtdRp8YjWb,Saber Ya Am Saber,Omar Khairat,"The Music of Egypt, Vol. 2",210aqQHhAbCBLtdRp8YjWb
+45,0.724,0,0.233,9,-16.597,0.0713,0.781,0.857,0.0939,0.149,84.003,271067,5G5UFWBJJpsDHHDMc2nQUP,Egyptian Whispers,Amr Ismail,Piano Piano 1,5G5UFWBJJpsDHHDMc2nQUP
+46,0.322,1,0.492,7,-10.281,0.04,0.737,0.865,0.313,0.662,185.045,370373,3LSNyNsn83Zwna5DZ1Cn8J,Gypsy soul,Bustan Abraham,Pictures Through The Painted Window,3LSNyNsn83Zwna5DZ1Cn8J
+47,0.508,0,0.596,6,-7.378,0.0358,0.812,0.647,0.0755,0.663,94.902,431227,39imTRzNEqdkZLax4r1x9L,The Bridge,Hossam Ramzy,The Best of Flamenco Arabe,39imTRzNEqdkZLax4r1x9L
+48,0.474,0,0.401,0,-12.562,0.0304,0.00529,0.291,0.175,0.22,139.73,266560,1M73j7og5cfnwoObVXX2O4,Atteny El-Nay Weghaney,Amr Ismail,Oriental Mood,1M73j7og5cfnwoObVXX2O4
+49,0.423,0,0.28,9,-11.835,0.0673,0.718,0.649,0.175,0.292,76.868,222960,1LiAyQ5OOsG8N5dz2YRqhp,Hungarian Dance - Raqsa Hungareya,Hosam Hayek,Stranger in My Homeland,1LiAyQ5OOsG8N5dz2YRqhp
+50,0.607,1,0.274,7,-12.809,0.0449,0.842,0.818,0.119,0.283,80.466,358614,5xpBZkUpg0PrIaZSzftv4R,My Way Home,Adnan Joubran,Borders Behind,5xpBZkUpg0PrIaZSzftv4R
+51,0.464,0,0.465,9,-14.971,0.0364,0.603,0.0197,0.174,0.638,124.654,267413,7HxgRB46Sp3ucTIXE7Dpfl,Bahelm Maahak,Ahmed El Gibaly,Gawaher 2,7HxgRB46Sp3ucTIXE7Dpfl
+52,0.439,0,0.26,7,-16.109,0.0296,0.808,0.945,0.365,0.354,93.865,82493,4UxB5lJ1zM2YzYOP8NMwIP,Zawgat Saghirat 1,Omar Khairat,Al Leqaa Althany,4UxB5lJ1zM2YzYOP8NMwIP
+53,0.635,1,0.216,2,-13.957,0.0441,0.727,0.851,0.105,0.307,140.095,272637,189PcJtClZRoViN6bSJnnT,I Wish I Were a Tree,Adnan Joubran,Borders Behind,189PcJtClZRoViN6bSJnnT
+54,0.649,0,0.329,7,-15.324,0.0399,0.829,0.681,0.133,0.704,82.009,82535,0LB3FFVE6AyoF7BHC6pBZf,Qalp La Yaref Al khouf,Omar Khairat,Fatma,0LB3FFVE6AyoF7BHC6pBZf
+55,0.577,0,0.34,5,-15.477,0.0494,0.709,0.48,0.0601,0.704,91.517,290427,269AmdV2hBIdEJkysPDIBd,Al bint el shalabiya,Charbel Rouhana & The Beirut Oriental Ensemble,HandMade,269AmdV2hBIdEJkysPDIBd
+56,0.444,0,0.363,0,-11.1,0.0386,0.676,0.853,0.0774,0.479,92.368,466773,0ab1sD4aZoiSHV7V4YzGqQ,Awedt Eny,Mahmoud Amer,Takaseem (Arabic Music on the Kanoun),0ab1sD4aZoiSHV7V4YzGqQ
+57,0.538,0,0.607,9,-5.986,0.0301,0.486,0.897,0.217,0.726,125.924,161587,4riJ8jxhpcdgqWqNGhNtP8,Tableaux De Sourat - Ya Banat Iskandaria,Charbel Rouhana,Sourat Trait D'union,4riJ8jxhpcdgqWqNGhNtP8
+58,0.379,1,0.303,5,-16.455,0.0414,0.776,0.591,0.293,0.65,182.069,186293,4K9o56kOfZk4Gq5tFZwV7r,Johny Guitar,Munir Bechir,Aoud Around the Arab World,4K9o56kOfZk4Gq5tFZwV7r
+59,0.507,0,0.103,0,-17.439,0.101,0.895,0.805,0.11,0.133,120.214,281118,3Aqvm36X2KmymIJ6byjn03,"Taqsîm Maqâm Nahâwând, pt. 1",Omar Bashir,"Taqâsîm (Luth arabe, Arab Lute)",3Aqvm36X2KmymIJ6byjn03
+60,0.22,1,0.335,3,-17.526,0.0341,0.413,0.891,0.245,0.13,77.907,145673,3NyxfVKazJCFxTLHI00UKk,Wadaa,Omar Khairat,Fatma,3NyxfVKazJCFxTLHI00UKk
+61,0.457,1,0.333,5,-16.236,0.0345,0.427,0.621,0.142,0.343,107.466,390200,6BV92rU07c7zMP9SdS2G1w,Kol shaeh raah,Ahmed El Gibaly,Gawaher,6BV92rU07c7zMP9SdS2G1w
+62,0.772,1,0.361,8,-14.275,0.119,0.632,0.868,0.109,0.786,99.949,370387,0MaYIjRKGlNm838bdgQzM8,Ana WeOudey,Mamdoh El Gibaley,Takasim Oud 1,0MaYIjRKGlNm838bdgQzM8
+63,0.429,1,0.385,10,-9.313,0.0359,0.858,0.812,0.0779,0.276,95.329,456480,5QpZvCsVZecWFdrgit1GrT,Hilal El Saba,Naser Shamma,Hilal / Crescent Moon / Luna Creciente,5QpZvCsVZecWFdrgit1GrT
+64,0.588,1,0.213,11,-16.801,0.0298,0.958,0.969,0.13,0.236,101.822,254600,5dTqqgZMb4H0y7V15XyenG,Bahabek,Ibrahim Kawala,Dumou,5dTqqgZMb4H0y7V15XyenG
+65,0.68,0,0.392,5,-11.46,0.0278,0.763,0.925,0.123,0.446,97.983,357493,6bfvkSSZRed3hFQIHM5Oi7,Villes invisibles,Toufic Farroukh,Villes invisibles,6bfvkSSZRed3hFQIHM5Oi7
+66,0.541,0,0.255,5,-13.255,0.0405,0.755,0.968,0.0894,0.311,106.956,291187,0hTJzfXAgF70t0uKrMipRt,Our Final Songs,Le Trio Joubran,The Long March,0hTJzfXAgF70t0uKrMipRt
+67,0.259,1,0.367,10,-13.848,0.0294,0.675,0.00469,0.138,0.155,176.039,204370,6IZUYsnFFWLUzgMbXCevmh,Fatma 2,Omar Khairat,Fatma,6IZUYsnFFWLUzgMbXCevmh
+68,0.529,1,0.143,0,-19.872,0.0505,0.941,0.889,0.298,0.227,120.099,311520,1p2vHdWTjOJshniOC5k2Mw,Talat Salamt,Various Artists,"Arabic Relaxation Music, Vol. 2",1p2vHdWTjOJshniOC5k2Mw
+69,0.454,1,0.43,0,-10.78,0.105,0.916,0.847,0.0918,0.306,85.28,303933,1gDy4pK0JQ2C29V1RvPwCv,Rohani (Hijaz),Amer Ammouri,Takasim Oud,1gDy4pK0JQ2C29V1RvPwCv
+70,0.465,0,0.196,0,-16.966,0.0282,0.933,0.951,0.109,0.144,96.059,188253,4I9YJGvMAfyrQBN5ELUk6Z,Lekaa,Ibrahim Kawala,Takasim Kawala 4,4I9YJGvMAfyrQBN5ELUk6Z
+71,0.465,1,0.373,5,-16.143,0.0476,0.867,0.868,0.121,0.721,160.28,291550,7wZjrw7IEy7mcFj5yzvcbU,Lessa Faker,Various Artists,"Arabic Relaxation Music, Vol. 2",7wZjrw7IEy7mcFj5yzvcbU
+72,0.529,1,0.358,5,-9.939,0.0778,0.91,0.787,0.131,0.443,152.058,184000,5DPFfZsr3cpl4vx2CqLjyE,Al Mazhab (Kord),Amer Ammouri,Eastern Strings,5DPFfZsr3cpl4vx2CqLjyE
+73,0.652,0,0.258,0,-14.886,0.0282,0.907,0.93,0.131,0.138,109.904,258252,5ocbXg32uWfdSKlfAIaj0n,Rimal El Foraq,Various Artists,"Arabic Relaxation Music, Vol. 3",5ocbXg32uWfdSKlfAIaj0n
+74,0.312,1,0.534,0,-5.767,0.0276,0.204,0.945,0.152,0.166,139.991,224793,3BjMbVdgxU8bgEi58f7vWD,الشراع المكسور 2,Omar Khairat,غوايش,3BjMbVdgxU8bgEi58f7vWD
+75,0.34,1,0.282,7,-12.958,0.03,0.933,0.854,0.116,0.303,104.987,198493,4GPrKAlPqZ1Vk9kgFvUCiC,El Byout Asrar,Omar Khairat,Al Leqaa Althany,4GPrKAlPqZ1Vk9kgFvUCiC
+76,0.44,1,0.52,0,-9.194,0.0486,0.138,0.557,0.0756,0.179,149.915,173587,2xm80SN6EdhVIM5zM5i2wg,Ahwak (Slow Mix),Amr Ismail,Techno Arabia 1,2xm80SN6EdhVIM5zM5i2wg
+77,0.403,0,0.461,9,-9.804,0.031,0.901,0.875,0.218,0.381,160.122,253242,1l3O0VM76kpLMcFex1ymJW,Al Bedaya,Hisham Kharma,Al Yaqeen,1l3O0VM76kpLMcFex1ymJW
+78,0.662,1,0.238,9,-12.901,0.0259,0.458,0.174,0.125,0.231,138.376,216333,6XPb4t3fxNfcm4zzbfxHHR,Sweety,Ahmed El Gibaly,Gawaher 2,6XPb4t3fxNfcm4zzbfxHHR
+79,0.292,0,0.433,7,-9.886,0.0357,0.673,0.893,0.0899,0.291,137.396,242000,0MQyws2My1igHfCqnFgyaW,7th Sky - Shiraz - Jihad Akl,Jihad Akl,Shiraz - A Violin Affair,0MQyws2My1igHfCqnFgyaW
+80,0.372,1,0.337,7,-15.349,0.0336,0.671,0.109,0.104,0.189,180.151,292572,3Oi52DAfd4j5pHUSfXknNU,Sahara Nights,Various Artists,Chilled Winter 2016,3Oi52DAfd4j5pHUSfXknNU
+81,0.49,0,0.347,4,-11.244,0.0299,0.926,0.759,0.141,0.406,81.978,314093,3eEijTlOt0v8PuKqUMRDU7,El Amor Perdido,Hossam Ramzy,The Best of Flamenco Arabe,3eEijTlOt0v8PuKqUMRDU7
+82,0.292,0,0.548,1,-10.976,0.053,0.745,0.904,0.607,0.174,75.208,344773,2vk1NpRrq74Bk2UhTJcGeA,Holy Gnawas,Various Artists,Arabian chill out,2vk1NpRrq74Bk2UhTJcGeA
+83,0.527,0,0.331,7,-17.682,0.0288,0.738,0.977,0.107,0.154,130.025,223533,3mwLTn4gpqGyx8y0J0Olvd,ElAmar,Ibrahim Kawala,Takasim Kawala 4,3mwLTn4gpqGyx8y0J0Olvd
+84,0.57,0,0.485,7,-10.391,0.0345,0.81,0.878,0.112,0.545,180.068,323547,5pcc81u3VWmNaP3PJJgEED,Ma colombe,Mohamed Rouane,Heureux dans la tristesse,5pcc81u3VWmNaP3PJJgEED
+85,0.671,1,0.259,9,-16.593,0.038,0.362,0.929,0.092,0.272,180.086,183533,4PlwZEcfVuWGosiQW3b57t,Shady,Morad El-Swifey,"Fairuziat, Vol. 2",4PlwZEcfVuWGosiQW3b57t
+86,0.809,0,0.21,11,-16.807,0.0367,0.0992,0.812,0.0702,0.235,116.928,277827,4A5XrfI6ALonzMAr3r23vo,Laily el omr madoda,Ahmed El Gibaly,Gawaher,4A5XrfI6ALonzMAr3r23vo
+87,0.694,0,0.383,0,-13.993,0.0437,0.634,0.237,0.0622,0.712,157.477,283450,7ACVTHV2BT2r6Ilnp0k4TN,Iraqi Jazz (Iraq),Various Artists,Discover Music of the Middle East with ARC Music,7ACVTHV2BT2r6Ilnp0k4TN
+88,0.816,0,0.282,10,-14.083,0.133,0.792,0.86,0.0997,0.654,81.97,444867,7EZojfd7kUm5RKz4Wu9JQT,Sahraan,Mamdoh El Gibaley,Takasim Oud 2,7EZojfd7kUm5RKz4Wu9JQT
+89,0.69,0,0.516,10,-7.425,0.0254,0.233,0.882,0.13,0.66,90.998,328680,2GgY4heYi0wJ8k6aR5zHdt,First Voyage,Hisham Kharma,First Voyage,2GgY4heYi0wJ8k6aR5zHdt
+90,0.386,1,0.0214,2,-27.996,0.0653,0.988,0.915,0.141,0.0946,116.319,195640,3f7CbubuiJbSAqXu7vLKfX,Astrakan café - 1,Anouar Brahem Trio,Astrakan Café,3f7CbubuiJbSAqXu7vLKfX
+91,0.435,0,0.424,7,-12.116,0.0338,0.835,0.95,0.0926,0.506,169.778,316000,0dZGNpJAsYwLVhX2PKe6er,Khaif Akol El Fi Galby,Various Artists,Oriental Mood 2,0dZGNpJAsYwLVhX2PKe6er
+92,0.366,0,0.331,6,-16.019,0.0508,0.825,0.954,0.384,0.186,179.51,266489,2vDDMDgbkzlFqkGSZpJvl4,El Noom Fel Assal,Omar Khairat,Rabsoudeya Arabeya,2vDDMDgbkzlFqkGSZpJvl4
+93,0.695,0,0.521,10,-9.537,0.0323,0.728,0.595,0.12,0.797,103.072,237147,1svCNERbTAavnO3UGKc8yS,Dance of the Bird - Raqsat Al Tayr,Hosam Hayek,Stranger in My Homeland,1svCNERbTAavnO3UGKc8yS
+94,0.419,1,0.675,9,-8.359,0.0322,0.613,0.881,0.182,0.683,128.724,300533,1rQ32IYVmF0O8iRDM9qFqr,Memories of Old Granada,Hossam Ramzy,The Best of Flamenco Arabe,1rQ32IYVmF0O8iRDM9qFqr
+95,0.383,1,0.377,10,-15.417,0.0567,0.775,0.883,0.0816,0.557,81.254,277453,04EbbgiVp18HGNdkrKbSdF,The Age of Industry,Le Trio Joubran,The Long March,04EbbgiVp18HGNdkrKbSdF
+96,0.375,0,0.119,9,-16.723,0.0431,0.94,0.893,0.111,0.111,92.615,252295,5D6pCmqhtc7UT470FPQbL0,That Moment When,Adnan Joubran,Borders Behind,5D6pCmqhtc7UT470FPQbL0
+97,0.395,1,0.452,10,-11.06,0.036,0.784,0.869,0.0836,0.378,91.497,896493,6NPGjTxFtoAuBReP2sK1Al,Viaje de las Almas. Travelling Souls,Naseer Shamma,Viaje De Las Almas. Travelling Souls,6NPGjTxFtoAuBReP2sK1Al
+98,0.603,0,0.455,7,-12.037,0.0381,0.725,0.862,0.104,0.537,77.03,464678,3GMn6kYaCbvmjzHx4dQeuR,Comme d'habitude,Mohamed Rouane,Heureux dans la tristesse,3GMn6kYaCbvmjzHx4dQeuR
+99,0.596,1,0.352,0,-11.715,0.0332,0.161,0.774,0.102,0.191,82.83,553453,4MvTq1v2I07pG0sJtHLmX6,Sound of Civilisation,Omar Bashir,The Sound of Civilisation,4MvTq1v2I07pG0sJtHLmX6
+100,0.605,1,0.333,0,-15.035,0.0324,0.781,0.355,0.182,0.542,110.143,216720,7wC8VXmumrEDWWeG8dhBuB,Sarseb,Omar Khairat,Al Leqaa Althany,7wC8VXmumrEDWWeG8dhBuB
+101,0.587,0,0.427,4,-15.637,0.031,0.405,0.838,0.0927,0.76,151.988,293407,7LpUO6ErtFU6YNM574GQ51,Un homme libre,Mohamed Rouane,Un homme libre,7LpUO6ErtFU6YNM574GQ51
+102,0.663,0,0.584,7,-12.674,0.0383,0.771,0.799,0.102,0.682,96.491,297660,6AEcLnBTWh3jIhGosG09Di,Down Town,Karim Baggili,Kali City,6AEcLnBTWh3jIhGosG09Di
+103,0.419,0,0.204,3,-19.908,0.0788,0.989,0.876,0.106,0.148,83.768,430440,4RjCfV8etDYMblXTTMS5vg,Ghurbeh (Diaspora),Ahmad Al Khatib,Sada,4RjCfV8etDYMblXTTMS5vg
+104,0.578,0,0.116,7,-16.667,0.0452,0.892,0.862,0.0872,0.138,81.828,274587,5X2hmmSLf0VyOU0sEARXtY,Silent Stories,Karim Baggili,Kali City,5X2hmmSLf0VyOU0sEARXtY
+105,0.557,1,0.31,0,-14.962,0.0307,0.821,0.932,0.0631,0.222,160.063,284000,6iQCQWxJJFsupuLq8GcCzm,Hamasat,Ibrahim Kawala,Takasim Kawala 4,6iQCQWxJJFsupuLq8GcCzm
+106,0.338,0,0.483,4,-12.515,0.0292,0.773,0.907,0.109,0.552,156.553,549547,4GZDcav11wtbLF3SkoaW7K,Les Ondes Orientales,Dhafer Youssef,Abu Navas Rhapsody,4GZDcav11wtbLF3SkoaW7K
+107,0.502,1,0.145,8,-13.101,0.0538,0.887,0.305,0.11,0.244,115.461,717147,1oIHjpmbdd3ZZyQOPoFKCG,Mesopotamia,Omar Bashir,The Sound of Civilisation,1oIHjpmbdd3ZZyQOPoFKCG
+108,0.617,1,0.368,7,-10.557,0.0419,0.938,0.535,0.0489,0.212,129.956,264693,3169aUzrWTznvVupy1f20E,Turkish Coffee,Basel Rajoub,Khameer,3169aUzrWTznvVupy1f20E
+109,0.497,1,0.296,0,-14.691,0.0835,0.917,0.848,0.124,0.211,146.419,253250,2D4aly5iDMjB9YF0j8O1Sh,Alief,Haytham Safia,Two Elements,2D4aly5iDMjB9YF0j8O1Sh
+110,0.602,1,0.481,2,-8.346,0.0284,0.757,0.917,0.105,0.835,128.843,145293,3s7S9iEsIozTylDBhDIIa5,Ajami,Various Artists,Discover Music from the Mediterranean,3s7S9iEsIozTylDBhDIIa5
+111,0.642,1,0.814,2,-9.089,0.0399,0.364,0.715,0.0884,0.699,95.016,249289,435J1rh6zYmnqsj8zOJUBR,Rimel,Mohamed Rouane,Nulle part,435J1rh6zYmnqsj8zOJUBR
+112,0.634,0,0.312,2,-15.458,0.0296,0.865,0.949,0.328,0.111,119.947,242000,0CaWmqI2dqA8xo2xEwCF0p,Damaa,Ibrahim Kawala,Takasim Kawala 4,0CaWmqI2dqA8xo2xEwCF0p
+113,0.645,1,0.418,10,-13.876,0.0317,0.743,0.582,0.109,0.455,127.963,410807,0H7pg6TQDdfZpD9YQtudwC,Nulle part,Mohamed Rouane,Nulle part,0H7pg6TQDdfZpD9YQtudwC
+114,0.601,1,0.712,0,-10.282,0.0592,0.00313,0.863,0.267,0.962,195.943,160373,7xkwnzvswaHbOM376ZLqPD,Siki Siki Baba,Harem,Harem,7xkwnzvswaHbOM376ZLqPD
+115,0.453,0,0.149,7,-23.521,0.0528,0.849,0.932,0.261,0.304,114.804,421480,7njXrtfJOjfEvpPmkXrZyz,Opening Day,Anouar Brahem,Blue Maqams,7njXrtfJOjfEvpPmkXrZyz
+116,0.699,0,0.514,4,-11.742,0.0358,0.634,0.808,0.11,0.739,151.994,336086,1b25EHVgM7ufuAAIE2yBd8,Quizas,Mohamed Rouane,Heureux dans la tristesse,1b25EHVgM7ufuAAIE2yBd8
+117,0.367,0,0.0653,0,-26.365,0.0572,0.944,0.914,0.102,0.151,75.439,521573,4XAKfSCGBNHvgJ7nfnvFw2,Blue Maqams,Anouar Brahem,Blue Maqams,4XAKfSCGBNHvgJ7nfnvFw2
+118,0.655,0,0.365,7,-13.981,0.0384,0.71,0.544,0.133,0.432,86.675,622055,3KT6Ik34mikXTuQm6r1Nkd,Shahrazad [Liban],Various Artists,"Middle Eastern Violin / Arabic, Greek & Turkish Instrumentals",3KT6Ik34mikXTuQm6r1Nkd
+119,0.36,1,0.339,4,-14.181,0.0345,0.739,0.904,0.129,0.357,138.243,385405,2YacMTRaSpuCIVGpp7pGsi,Ommy,Various Artists,El Qahera (Arabian Egyptian Music Inspired by Cairo),2YacMTRaSpuCIVGpp7pGsi
+120,0.586,1,0.506,8,-10.109,0.0254,0.129,0.555,0.0681,0.485,95.995,334000,1SAPPC5VHwIxnmStT7fNCW,Jazzmina,Eftekasat,Dandasha,1SAPPC5VHwIxnmStT7fNCW
+121,0.662,0,0.419,5,-12.618,0.0559,0.644,0.854,0.102,0.617,172.391,331867,2xItMQJdsdPp6lYPm45mH3,Dance for My Father,Toufic Farroukh,Little Secrets,2xItMQJdsdPp6lYPm45mH3
+122,0.475,0,0.146,9,-17.986,0.0365,0.92,0.874,0.112,0.0656,130.056,541000,5SudAeeqNezGIUtnqCYUL0,Ascetic Journey,Dhafer Youssef,Birds Requiem,5SudAeeqNezGIUtnqCYUL0
+123,0.702,1,0.738,0,-9.095,0.0382,0.63,0.901,0.101,0.781,100.041,271600,4ikgN0CpRquUgM4l0wpNMs,Felucca,Hisham Kharma,First Voyage,4ikgN0CpRquUgM4l0wpNMs
+124,0.189,1,0.656,8,-7.821,0.0396,0.137,0.618,0.133,0.222,86.316,295451,1XhUQWY8axANKs2jFXUar3,Sheta,Various Artists,Cairo Café,1XhUQWY8axANKs2jFXUar3
+125,0.501,0,0.246,9,-10.526,0.0461,0.724,0.235,0.148,0.385,108.287,208187,2KILUL4J1ekFNTsDJSwdfN,Stranger in My Homeland - Ghareeb Fe Watani,Hosam Hayek,Stranger in My Homeland,2KILUL4J1ekFNTsDJSwdfN
+126,0.452,1,0.246,0,-14.833,0.0606,0.773,0.899,0.124,0.0753,98.888,59707,2C4ksQvwsrBUH4okwq4ghL,Flamenco,Marcel Khalifa,Concerto Al Andalus,2C4ksQvwsrBUH4okwq4ghL
+127,0.421,0,0.502,5,-9.494,0.0332,0.833,0.79,0.638,0.54,85.596,113507,0wvgJc2mHExRCfHIu0gdRv,Bint Al Chalabiyah,Marcel Khalifa,Concerto Al Andalus,0wvgJc2mHExRCfHIu0gdRv
+128,0.652,0,0.609,7,-7.859,0.0401,0.495,0.00275,0.0797,0.544,148.017,293613,73QbJhgikZ1qVqoz8eZ1E3,Yearning (feat. Fathi Aljarah),Raul Ferrando,Angelika Unveiled,73QbJhgikZ1qVqoz8eZ1E3
+129,0.643,0,0.919,0,-9.863,0.0497,0.121,0.796,0.0942,0.929,167.962,271067,4sz41Tt3ukmvkp9r43vTzV,Tamally Maak,Ahmet Koç,Paradoks,4sz41Tt3ukmvkp9r43vTzV
+130,0.552,1,0.532,7,-10.567,0.0279,0.534,0.515,0.105,0.386,149.894,344027,1G4e1PPmD4GI8g62XpOt1x,Nuits blanches,Mohamed Rouane,Nulle part,1G4e1PPmD4GI8g62XpOt1x
+131,0.814,1,0.532,4,-8.916,0.0312,0.574,0.798,0.31,0.569,94.529,139107,0bTHfdROHIvHMn1jrA0Guu,When I Fall In Love,Various Artists,Oriental Instrumentals in International Hits,0bTHfdROHIvHMn1jrA0Guu
+132,0.187,0,0.0528,0,-25.813,0.0407,0.825,0.29,0.0809,0.267,168.487,310253,2qI9VR65KdwBoaD9IN9Xbf,Lamma Bada (Arr. Kosmos Ensemble),Kosmos Ensemble,Pomegranate,2qI9VR65KdwBoaD9IN9Xbf
+133,0.374,0,0.0398,2,-24.036,0.0438,0.987,0.876,0.102,0.129,90.024,389320,3xEti3IhPZPx7WJzgV6kn5,Sur Le Fleuve - remastered,Various Artists,Music For The Film Sounds And Silence,3xEti3IhPZPx7WJzgV6kn5
+134,0.528,1,0.129,7,-16.89,0.0351,0.904,0.943,0.107,0.249,87.574,334861,6ZEmjcKnZvbWV2qBvDR3rm,Dreams Of A Dying City,Rabih Abou-Khalil,Hungry People,6ZEmjcKnZvbWV2qBvDR3rm
+135,0.38,0,0.567,5,-10.396,0.0329,0.652,0.833,0.117,0.54,98.989,473333,2XIHjU7ZK1CCHFHZ64BZEP,"Caress (feat. Bachar Khalife, Rami Khalife & Peter Herbert)",Marcel Khalifa,Caress,2XIHjU7ZK1CCHFHZ64BZEP
+136,0.694,1,0.816,0,-5.786,0.0334,0.0868,0.912,0.469,0.966,99.995,255600,2nx1z24jfU0GlxZRla9ZG9,Alladin Dub,The Spy From Cairo,Arabadub,2nx1z24jfU0GlxZRla9ZG9
+137,0.604,1,0.576,9,-10.444,0.0528,0.0202,0.881,0.0971,0.235,169.983,288000,3yDUoVDgIdCt9FF0dD8sbo,Fanaa,The Spy From Cairo,Nothing New Under the Sun,3yDUoVDgIdCt9FF0dD8sbo
+138,0.307,0,0.544,10,-12.178,0.084,0.459,0.386,0.0931,0.368,104.153,387750,22RfGYs8Q5aTBuxILy5nuS,Khali Balak Men Aklak,Omar Khairat,Am Ahmed,22RfGYs8Q5aTBuxILy5nuS
+139,0.695,1,0.598,1,-8.368,0.0334,0.0456,0.852,0.136,0.621,141.998,312676,6BMqnbno8qOqfJwUGtinDu,Egyptian Pulse,The Spy From Cairo,Arabadub,6BMqnbno8qOqfJwUGtinDu
+140,0.614,1,0.447,5,-11.927,0.0387,0.938,0.901,0.095,0.761,112.299,339987,1LDgec3kWVpg0TOQGIP7DV,Anfaz,3MA,Anarouz,1LDgec3kWVpg0TOQGIP7DV
+141,0.543,0,0.437,5,-11.871,0.0785,0.464,0.624,0.104,0.299,104.313,167488,57F72SNODqvkm6PAVvoL3B,Last Chance,Thornato,Bennu,57F72SNODqvkm6PAVvoL3B
+142,0.308,1,0.19,0,-15.755,0.041,0.969,0.697,0.104,0.228,126.388,318394,5TjS5GEiSmg59oTNLUcjkm,Al Dal'ona,The Four Corners Quartet,The Four Corners Quartet,5TjS5GEiSmg59oTNLUcjkm
+143,0.553,0,0.663,7,-8.328,0.0297,0.199,0.0372,0.112,0.872,155.172,387427,0fpdzSrZ0OGCsJy2wkNAgA,Min Qalbi - Parte 1,Mario Kirlis,"Música Arabe Instrumental, Vol. XII",0fpdzSrZ0OGCsJy2wkNAgA
+144,0.336,0,0.571,0,-6.541,0.0349,0.702,0.893,0.111,0.778,153.858,214707,7Ca7lNTqHrfInmR76CBP6j,Yasmeen and I,Zade,Roads to You,7Ca7lNTqHrfInmR76CBP6j
+145,0.558,0,0.682,4,-8.255,0.0383,0.0719,0.874,0.0637,0.211,175.965,319321,3lnLYYA71FFtlOreGhgUmW,Akedni Maak (Music),Fadl & Yara,Akedni Maak Dueto - Single,3lnLYYA71FFtlOreGhgUmW
+146,0.446,0,0.473,7,-9.912,0.0376,0.635,0.0288,0.0927,0.625,109.797,288653,10JE8mtSij7nWUckYGFncU,Il Hilwa Di,Various Artists,Cafe Hookah - Exotic Flavours from the Orient,10JE8mtSij7nWUckYGFncU
+147,0.628,0,0.694,11,-7.02,0.108,0.685,0.915,0.0276,0.85,108.224,226373,3VXR7nuBnYqAitWkjVxy8c,A Nadda-Shatti Ya Duniya,Pangia,Pangia Vol 3,3VXR7nuBnYqAitWkjVxy8c
+148,0.585,1,0.328,0,-11.337,0.0407,0.864,0.811,0.129,0.584,149.951,277547,1FcQMkWirsjKamdPXhDTTA,Grief - Tarha,Hosam Hayek,Stranger in My Homeland,1FcQMkWirsjKamdPXhDTTA
+149,0.411,0,0.363,0,-10.513,0.0368,0.737,0.838,0.0833,0.412,99.929,366467,3RtH9dSvUpjzg6SOS0n9qG,Zikrayati,Charbel Rouhana,Sourat Trait D'union,3RtH9dSvUpjzg6SOS0n9qG
+150,0.516,1,0.396,5,-14.739,0.0489,0.731,0.288,0.702,0.687,103.209,420400,7lm1lEzWIcTU2Xqo3Tash6,Zikrayati (My Memories),Ziryab Trio,Oriental Art Music,7lm1lEzWIcTU2Xqo3Tash6
+151,0.527,1,0.66,0,-8.921,0.0345,0.833,0.25,0.086,0.883,110.408,337427,77EmPXKJGkZYg6s4UO3Jti,Shatti Ya Dnyi,Various Artists,Baklava - Sweet Sounds from the Orient,77EmPXKJGkZYg6s4UO3Jti
+152,0.336,0,0.538,0,-12.388,0.0307,0.141,0.826,0.17,0.244,155.754,297677,2VyG2qdMCne2mHdcwU23z5,Soft Oriental Mood,Maan Hamadeh,Inception,2VyG2qdMCne2mHdcwU23z5
+153,0.55,0,0.446,7,-13.186,0.0357,0.342,0.881,0.179,0.642,124.883,178908,38V45VdUKgFmu9KlTn9Wkr,Helwa Ya Baladi,Zade,Zade,38V45VdUKgFmu9KlTn9Wkr
+154,0.407,0,0.514,9,-10.743,0.0615,0.718,0.948,0.129,0.206,75.335,388545,0aQzHo5IRoMg2UMNbqysfc,موطني,Maan Hamadeh,In Different Tastes,0aQzHo5IRoMg2UMNbqysfc
+155,0.662,1,0.108,7,-21.454,0.0463,0.974,0.716,0.323,0.157,94.007,308640,0O8bWRmfA6QOkz3qpO5x8n,El Deek Beydann,Fadel Kourdy,"Arabic Piano Nights, Vol. 2",0O8bWRmfA6QOkz3qpO5x8n
+156,0.412,1,0.414,2,-9.109,0.0513,0.347,0.62,0.117,0.291,108.244,219853,5Ee9HJEUUV5jP7BGEwt96r,Alal Rimal,Various Artists,Authentic Instrumental Music By the Most Famous Arab Artists,5Ee9HJEUUV5jP7BGEwt96r
+157,0.502,1,0.309,8,-13.796,0.115,0.881,0.736,0.105,0.244,101.399,399547,2klH9ydp5FXVeHxsWHDTxS,Ancient Dreams,Naseer Shamma,Ancient Dreams,2klH9ydp5FXVeHxsWHDTxS
+158,0.427,0,0.314,7,-12.642,0.0881,0.912,0.505,0.0844,0.231,78.783,295947,7y1USejzujfgmPDqEzOaWy,Hammurabi,Naseer Shamma,Viaje De Las Almas. Travelling Souls,7y1USejzujfgmPDqEzOaWy
+159,0.684,0,0.389,11,-13.613,0.054,0.298,0.449,0.0569,0.603,91.089,260529,3PYH78C6sUakXIdqHCKUPy,La Dama del Oasis (The Oasis´s Lady),José Emilio Muñoz,The Music of Ali Baba. Background Music with Arabic Instrument,3PYH78C6sUakXIdqHCKUPy
+160,0.742,0,0.724,9,-11.361,0.198,0.782,0.913,0.108,0.218,110.006,304831,2BSNiDsHALgbmIpwgO92Z0,Signs of Madness,Adnan Joubran,Borders Behind,2BSNiDsHALgbmIpwgO92Z0
+161,0.495,0,0.151,2,-17.647,0.0478,0.954,0.887,0.0954,0.106,104.649,398373,7wVeIkoIwIgCYWw0J3vdLM,Angel Suite in D: Light,Joseph Tawadros,Angel,7wVeIkoIwIgCYWw0J3vdLM
+162,0.344,1,0.135,0,-20.753,0.0426,0.946,0.577,0.0834,0.114,120.424,508867,4L9jvPFCDELzRCRnUAYaTF,Saltanah - Rag Bagashri/Maqam 'Ajam Mu'addal,Simon Shaheen,Saltanah,4L9jvPFCDELzRCRnUAYaTF
+163,0.423,0,0.431,9,-16.483,0.0475,0.9,0.83,0.0985,0.25,95.997,335560,6WleI25sYnKie7xB5kOg42,Permission To Evaporate,Joseph Tawadros,Permission To Evaporate,6WleI25sYnKie7xB5kOg42
+164,0.456,1,0.0735,1,-16.632,0.0382,0.948,0.905,0.097,0.0742,117.062,245827,3Hcb4UiJcaFl6djyzcBm2O,The Secret Spell,Joseph Tawadros,"The Bluebird, the Mystic and the Fool",3Hcb4UiJcaFl6djyzcBm2O
+165,0.613,0,0.366,0,-13.795,0.0491,0.861,0.863,0.107,0.491,123.111,269940,6AfWJ9fu7xNjeb1BfETxZi,Big Fish,Karim Baggili,Kali City,6AfWJ9fu7xNjeb1BfETxZi
+166,0.734,0,0.401,9,-16.906,0.0801,0.564,0.873,0.11,0.682,91.94,287521,2QzNFnaUmXoEyUF2CxJDxk,Evasion,Various Artists,Marrakesh: The Sounds Of Morocco,2QzNFnaUmXoEyUF2CxJDxk
+167,0.433,1,0.283,0,-14.195,0.0745,0.901,0.876,0.25,0.387,77.363,1225733,5D5JadmJ5aziyeKsYFWLAm,Maqam Kurd,Ali Jihad Racy,Taqasim: The Art of Improvisation in Arabic Music,5D5JadmJ5aziyeKsYFWLAm
+168,0.279,0,0.0154,7,-26.421,0.0424,0.98,0.909,0.129,0.217,72.255,187027,5p52LCsKzIBkar4uXk0GtA,The Lamentations of Isis,Ali Jihad Racy,Ancient Egypt,5p52LCsKzIBkar4uXk0GtA
+169,0.695,0,0.4,5,-10.618,0.0471,0.592,0.335,0.108,0.455,119.93,407840,47fq6OfV8Q4I0hTv6MJR8x,My Favorite Dance,Omar Bashir,Al Andalous,47fq6OfV8Q4I0hTv6MJR8x
+170,0.417,0,0.86,5,-3.818,0.0359,0.351,0.535,0.698,0.688,145.891,358413,0Vk84hWPdrLNbZSgWfklHJ,"Sorrow Of A Child - Live In Al Manama, Bahrain/ 2011",Omar Bashir,The Legend Live In Concert,0Vk84hWPdrLNbZSgWfklHJ
+171,0.434,1,0.543,10,-6.41,0.054,0.825,0.382,0.127,0.405,144.933,713880,2HKwGugdQhrOvA8oW49uy9,Layal,Omar Bashir,Latin Oud,2HKwGugdQhrOvA8oW49uy9
+172,0.714,0,0.485,0,-9.362,0.0433,0.524,0.051,0.0946,0.419,147.982,275413,2Jzg3UMgUIAwmqfRrGQQbI,Ha Habibi,Mamdoh El Gibaley,Arabian Oud,2Jzg3UMgUIAwmqfRrGQQbI
+173,0.462,0,0.204,7,-22.627,0.0389,0.888,0.892,0.133,0.47,134.291,525587,1uf8Nk1hT9pv35xuKGZc81,Bahia,Anouar Brahem,Blue Maqams,1uf8Nk1hT9pv35xuKGZc81
+174,0.44,1,0.377,0,-13.883,0.0431,0.501,0.961,0.0993,0.503,133.729,179493,07TI2O6XAG8J6ljqj91kEk,Ya Abou El-Ayoon El-Sood,Various Artists,Arabian Oud,07TI2O6XAG8J6ljqj91kEk
+175,0.641,1,0.504,2,-10.413,0.0332,0.786,0.814,0.139,0.511,126.252,283133,3C3KvBFL5n9YBflcIInxxT,Nassam Aleina El Hwaw (The Gentle Breeze Brushed Against Us) (Egypt),Various Artists,"Music of the Middle East - Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à",3C3KvBFL5n9YBflcIInxxT
+176,0.398,0,0.424,2,-10.555,0.0437,0.777,0.931,0.145,0.603,159.286,264747,2wXnYN3JTqf9UiZGEQldjQ,Semaai Bayat,Twais,Insan,2wXnYN3JTqf9UiZGEQldjQ
+177,0.583,0,0.285,7,-13.382,0.0313,0.617,0.922,0.252,0.381,122.838,378320,6S4S6ggr8wK7Hr8M5e1rDl,Emta El Zaman Yesmah Ya Gameel,Omar Khairat,Wahabeyat Pt.2,6S4S6ggr8wK7Hr8M5e1rDl
+178,0.518,1,0.621,5,-9.263,0.0811,0.659,0.592,0.675,0.386,113.19,669160,2JzomWPRNlil1zu3tTvodi,Zuruni / Talaa Min Bet-Abuha - Live,Omar Bashir,Oud Around The World (Live In Budapest),2JzomWPRNlil1zu3tTvodi
+179,0.562,0,0.486,9,-11.519,0.101,0.813,0.368,0.0859,0.727,187.964,307520,5FxWhXm5WG6akC7jDvPhKU,Daret El Ayam III,Nesma,Memories of Cairo (Oriental Dance Music Volume 1),5FxWhXm5WG6akC7jDvPhKU
+180,0.87,0,0.731,10,-10.305,0.0983,0.0445,0.898,0.852,0.626,100.004,290667,3E3nvHZm2jbbnvE2kRxHY5,The Ever Flowing River - Rabab Everflow mix,Various Artists,Arabic Chillout,3E3nvHZm2jbbnvE2kRxHY5
+181,0.618,0,0.137,0,-17.015,0.0691,0.965,0.697,0.0895,0.484,81.486,65630,1xXLzy2BJD7yJDd6xAat55,Miss A,Joseph Tawadros,"The Bluebird, the Mystic and the Fool",1xXLzy2BJD7yJDd6xAat55
+182,0.418,0,0.446,5,-9.932,0.0507,0.872,0.735,0.104,0.633,161.745,258787,4e4ykfWTkcdwKmFr2fBfd5,Al Andalus,Joseph Tawadros,World Music,4e4ykfWTkcdwKmFr2fBfd5
+183,0.748,1,0.699,0,-8.41,0.0408,0.384,0.874,0.084,0.665,113.073,377710,0cTPViiVHIijxTpkEfD542,Maliket Afrequia (The Queen of Africa),Hossam Ramzy,Quanun el tarab,0cTPViiVHIijxTpkEfD542
+184,0.452,1,0.482,7,-10.545,0.0433,0.294,0.621,0.161,0.295,115.768,1190173,6gW6Q6Q1ClFzkqNPOOYslY,From Aghadan Alkaak to Al Atlaal & Fakarouni - Instrumental,Misr Band,Rawae'a Oum Kalthoum (Instrumental),6gW6Q6Q1ClFzkqNPOOYslY
+185,0.494,0,0.13,3,-14.646,0.048,0.956,0.0343,0.104,0.504,124.511,374127,6hYRIuFAg7TrddETwWvZMV,Takmilat Maqam Shad Araban [Egypt],Various Artists,"Middle Eastern Violin / Arabic, Greek & Turkish Instrumentals",6hYRIuFAg7TrddETwWvZMV
+186,0.124,1,0.225,0,-16.663,0.0424,0.969,0.355,0.0967,0.0594,170.369,170600,2J8l4nCfhBl9pGlFqKvs9R,Hadji Baba,Mohammad Shams,"Iran, Middle Eastern, Moyen-Orient",2J8l4nCfhBl9pGlFqKvs9R
+187,0.657,1,0.847,2,-6.98,0.0352,0.0982,0.301,0.117,0.549,96.987,261460,0Yaj26ziyIH4SRYXnqYJMK,Aaja Bahon Me - Arabic Instrumental Version,Aamir Kangda,HoneyMoon,0Yaj26ziyIH4SRYXnqYJMK
+188,0.48,1,0.669,5,-4.757,0.0446,0.391,0.901,0.0974,0.0876,127.223,152427,3N4UdQvzwXzq9W3tifDKoK,You Are My Life (Egypt),Various Artists,Oriental Guitar - Turkish & Arabic Instrumental Music,3N4UdQvzwXzq9W3tifDKoK
+189,0.382,1,0.446,5,-11.189,0.0359,0.791,0.859,0.122,0.207,135.53,361653,5n59WnuOOKhBvkO10e9040,Sans Adresse,Ramzi Aburedwan,Reflections Of Palestine,5n59WnuOOKhBvkO10e9040
+190,0.732,0,0.184,9,-10.382,0.0335,0.77,0.642,0.0989,0.429,122.008,112480,6r31Pw3pw6N8i6kwfc2kx2,L'obstinée I,Le Trio Joubran,The Last Flight (Original Motion Picture Soundtrack),6r31Pw3pw6N8i6kwfc2kx2
+191,0.321,1,0.389,1,-11.733,0.0504,0.913,0.962,0.0838,0.156,90.025,100771,573fKkbCWYPtQ2KgOQR0dB,Intro,Haydar Hamdi,Fikra,573fKkbCWYPtQ2KgOQR0dB
+192,0.367,1,0.208,7,-17.847,0.0685,0.758,0.915,0.165,0.343,158.788,200747,4E70hItpq5sRXMaSWg8Qrf,Bayati,Aarif Jaman,Oud (The Legend of Arabic Music),4E70hItpq5sRXMaSWg8Qrf
+193,0.403,0,0.89,0,-6.852,0.0749,0.625,0.898,0.725,0.782,88.832,271587,4lwFpn5ZQQHXKsoGtttRqc,Longa Riyad - Longa Yorgo - Live,Omar Bashir,Oud Around The World (Live In Budapest),4lwFpn5ZQQHXKsoGtttRqc
+194,0.546,0,0.195,2,-16.17,0.0761,0.903,0.86,0.107,0.257,144.604,409443,4g429S9DBkgold5zSRTJQa,"D'un crépuscule, l'autre",Abderraouf Ouertani,Contes d'un misérable luth,4g429S9DBkgold5zSRTJQa
+195,0.387,1,0.647,5,-8.76,0.0341,0.723,0.945,0.108,0.74,110.245,110480,6idrPFwmg6wnr8Z8wWpFtm,Ya Zalemny,Various Artists,"The Sahara, Vol. 1",6idrPFwmg6wnr8Z8wWpFtm
+196,0.486,0,0.145,0,-15.668,0.0749,0.874,0.61,0.101,0.282,111.651,780027,0TZ0P24otBmXS8fMgx8M5E,Maqâm Hijâz Kâr Kurd / Señora Andalucia,Omar Bashir,Maqâm,0TZ0P24otBmXS8fMgx8M5E
+197,0.58,0,0.893,0,-4.836,0.0385,0.678,0.791,0.141,0.963,93.875,228280,4Jmm38eXTKHoBC3kKTeZmI,Al Hambra,Omar Bashir,The Dancing Oud,4Jmm38eXTKHoBC3kKTeZmI
+198,0.702,0,0.719,10,-6.092,0.0254,0.0233,0.878,0.637,0.647,102.992,288932,3e391CyyqmB3yr1xmxTnOu,Haboob,The Spy From Cairo,Arabadub,3e391CyyqmB3yr1xmxTnOu
+199,0.43,0,0.417,7,-10.712,0.0399,0.713,0.924,0.404,0.727,113.761,505373,5YR9vUDdvb32jeVE4bPQ3X,Longa Reyadh,Various Artists,"Morning Arabian Safari Music, Vol. 2",5YR9vUDdvb32jeVE4bPQ3X
+200,0.655,1,0.367,5,-9.085,0.0982,0.793,0.0872,0.194,0.917,118.2,119025,3UuFHmyTy1SsBZ7knPz01W,Longa Sabagh,Various Artists,Fann (Arabic Traditional Music),3UuFHmyTy1SsBZ7knPz01W
+201,0.392,0,0.564,0,-9.181,0.0461,0.0642,0.141,0.691,0.456,126.478,520411,6DL3d4An3DJPhtg12ErMSG,Baligh El Alhan,Various Artists,Fann (Arabic Traditional Music),6DL3d4An3DJPhtg12ErMSG
+202,0.499,0,0.72,9,-4.205,0.0397,0.844,0.0242,0.12,0.623,92.487,357480,7x26sun6dBWtXQw5FfFmV1,Zay el Assal (As Sweet as Honey),Hossam Ramzy,Quanun el tarab,7x26sun6dBWtXQw5FfFmV1
+203,0.284,0,0.0376,11,-26.32,0.0412,0.95,0.879,0.12,0.0516,134.689,556867,5f6KQ3fR8EGw9FV6xCiUV5,Souvenance,Anouar Brahem,Souvenance,5f6KQ3fR8EGw9FV6xCiUV5
+204,0.529,0,0.198,7,-19.192,0.0378,0.926,0.884,0.0997,0.388,115.107,521880,4oSTBO2neWnBbWzBNeuAzJ,The Astounding Eyes Of Rita,Anouar Brahem,The Astounding Eyes Of Rita,4oSTBO2neWnBbWzBNeuAzJ
+205,0.585,0,0.499,0,-9.851,0.115,0.397,0.84,0.241,0.615,115.981,388186,48jIYGOTHfKFSUlSgUUzIi,Nesma't El Nile,Nesma,Del Nilo Al Guadalquivir (Oriental Dance Music Volume 2),48jIYGOTHfKFSUlSgUUzIi
+206,0.21,1,0.0468,10,-24.926,0.0482,0.927,0.803,0.0638,0.624,68.531,73693,3Ah7eCAq33fSAyAjgHOvTH,Taqasim On Nay,Simon Shaheen,Turath,3Ah7eCAq33fSAyAjgHOvTH
+207,0.213,0,0.0343,2,-26.966,0.0359,0.988,0.947,0.079,0.042,168.561,456733,0GVnS4uOGmF64s5Nbtk0fr,Ashen Sky,Anouar Brahem,Souvenance,0GVnS4uOGmF64s5Nbtk0fr
+208,0.674,0,0.905,7,-3.863,0.0364,0.777,0.111,0.0834,0.906,90.473,295000,3IEGcc5jbvRL5nJV5GeyIn,El helwa dayer shbbak-ha (Her Window Is Surrounded by a Fruit Tree),Hossam Ramzy,Quanun el tarab,3IEGcc5jbvRL5nJV5GeyIn
+209,0.516,0,0.406,7,-9.111,0.0375,0.647,0.644,0.105,0.279,115.963,293133,2vkppgEtYMmmeYcyxOiHSM,Enta Omri,Various Artists,The Masters of Bellydance Music,2vkppgEtYMmmeYcyxOiHSM
+210,0.542,0,0.942,10,-4.136,0.0746,0.0177,0.427,0.161,0.869,150.045,245293,1G1Fpq2YDM4Sa7VjuEBy1J,Oriental Dance,Omar Bashir,The Dancing Oud,1G1Fpq2YDM4Sa7VjuEBy1J
+211,0.425,0,0.535,7,-10.41,0.0313,0.751,0.896,0.0977,0.629,88.69,733827,1ycEj3lK7DWuSLPDzJcM2S,Para Túnez. For Túnez,Naseer Shamma,Viaje De Las Almas. Travelling Souls,1ycEj3lK7DWuSLPDzJcM2S
+212,0.467,1,0.89,10,-2.508,0.0376,0.607,0.768,0.0862,0.661,130.131,382040,6pbcfkv8cVwksZWoqSbf9a,Caravan,Omar Bashir,The Dancing Oud,6pbcfkv8cVwksZWoqSbf9a
+213,0.585,0,0.909,5,-3.74,0.0353,0.279,0.57,0.0984,0.965,144.977,299320,25iKhGkji5OXmqIq0NXpMG,Ladies Dance,Omar Bashir,The Dancing Oud,25iKhGkji5OXmqIq0NXpMG
+214,0.62,1,0.585,8,-8.897,0.0612,0.418,0.895,0.125,0.207,166.003,511307,0zZ8b7mtn1VJDl4PJVVdjZ,Imagination Dance,Omar Bashir,The Dancing Oud,0zZ8b7mtn1VJDl4PJVVdjZ
+215,0.7,1,0.754,8,-8.786,0.0346,0.25,0.927,0.0905,0.869,120.036,286000,1gG8ThTZS3vedSMMeKKAXj,Joud,Hisham Kharma,Kun,1gG8ThTZS3vedSMMeKKAXj
+216,0.707,1,0.787,0,-6.044,0.0312,0.0776,0.577,0.295,0.96,109.988,270545,5ZwFIBeIrkCmLkfKzFk7i3,Fawanees,Hisham Kharma,Kun,5ZwFIBeIrkCmLkfKzFk7i3
+217,0.709,0,0.823,4,-9.836,0.0453,0.147,0.871,0.0869,0.905,137.165,252533,0sAjqr4rrVy6ibuDMnFRuY,Pop Corn,Omar Khorshid,"Belly Dance, Vol. 2",0sAjqr4rrVy6ibuDMnFRuY
+218,0.611,1,0.518,0,-10.286,0.0414,0.282,0.00511,0.553,0.664,138.631,386240,7j8vH9dg32w8zgod1swmm2,Raks Sharki,Sami Nossair Orchestra,Cairo Delight,7j8vH9dg32w8zgod1swmm2
+219,0.523,0,0.53,0,-7.645,0.048,0.325,0.00958,0.0898,0.413,118.892,382053,0rU5UbUOTliG5wxxxkkupN,Zeina,Various Artists,Shake It Up! Exotic Belly Dance Performances,0rU5UbUOTliG5wxxxkkupN
+220,0.573,1,0.458,0,-16.523,0.0386,0.45,0.644,0.352,0.734,126.228,157933,3ztvXcsYyphJFKlg5KEFLi,Sahriyé - Intro,Ziad Rahbani,Instrumental Arabic Festival,3ztvXcsYyphJFKlg5KEFLi
+221,0.757,1,0.793,0,-7.805,0.0347,0.559,0.912,0.0631,0.96,93.981,179072,6vUe5zv6FFDedxozCCLamg,Djema El Fna,Various Artists,Marrakesh: The Sounds Of Morocco,6vUe5zv6FFDedxozCCLamg
+222,0.714,1,0.402,0,-8.615,0.109,0.599,0.855,0.132,0.966,113.203,91600,0lBGVF9C6tFH6JO8SDbSwj,Lama badaa yatassala,Azzedine El Maghrabi,Les pyramides,0lBGVF9C6tFH6JO8SDbSwj
+223,0.527,1,0.465,2,-7.949,0.0451,0.28,0.704,0.133,0.259,114.363,509520,4Nu8ixfA4SiNocgFylVxg5,Anta omri,Azzedine El Maghrabi,Les pyramides,4Nu8ixfA4SiNocgFylVxg5
+224,0.404,1,0.214,5,-18.254,0.0694,0.805,0.702,0.11,0.487,88.077,314080,7AOFRxa2hiXhyiucpVNetT,Khama'ael,Aarif Jaman,Oud (Vol. 1),7AOFRxa2hiXhyiucpVNetT
+225,0.303,0,0.0587,0,-18.838,0.0396,0.989,0.797,0.093,0.0772,186.169,379253,6avLwPGZvr93PaxBARH5dA,Vague / E la nave va,Anouar Brahem,Le Voyage De Sahar,6avLwPGZvr93PaxBARH5dA
+226,0.491,1,0.607,8,-11.392,0.0473,0.666,0.875,0.103,0.672,93.452,299533,2YwuLp9vd2iW45agyJMK4C,Taksim bayat mawzoun,Abraham Salman,Saltana,2YwuLp9vd2iW45agyJMK4C
+227,0.537,0,0.0469,2,-19.511,0.0529,0.932,0.912,0.11,0.162,79.545,321867,6VF35eHX6ETkUIf3DJETAs,Kashf,Anouar Brahem,Thimar,6VF35eHX6ETkUIf3DJETAs
+228,0.608,0,0.445,2,-7.525,0.0313,0.628,0.96,0.284,0.672,114.948,162453,5AfwbZvFttRzCQ6rxe4rvc,Mayass,Charbel Rouhana,Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams,5AfwbZvFttRzCQ6rxe4rvc
+229,0.629,1,0.561,2,-6.061,0.0332,0.319,0.907,0.12,0.804,88.196,191707,0G3YxmcPrNa15bECb51prW,Manara,Charbel Rouhana,Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams,0G3YxmcPrNa15bECb51prW
+230,0.542,1,0.275,0,-11.072,0.152,0.975,0.851,0.176,0.317,115.669,198720,1uA8dxmqJc58huyOHb9fMt,"Improvisation, No 1",Majid Nazempour,Ziryab,1uA8dxmqJc58huyOHb9fMt
+231,0.522,1,0.197,2,-15.203,0.071,0.954,0.899,0.118,0.214,86.916,280533,5JzOCVflX86G9503tPglDi,"Fourth Gāh, Pt. 2",Yasamin Shahhosseini,Gāhān,5JzOCVflX86G9503tPglDi
+232,0.502,1,0.303,5,-12.864,0.111,0.926,0.914,0.128,0.357,146.544,104880,5q5Oz2kAYx76a23pc8Tk1q,Arayib (Houzam),Amer Ammouri,Takasim Oud,5q5Oz2kAYx76a23pc8Tk1q
+233,0.447,1,0.736,5,-5.557,0.0363,0.478,0.819,0.281,0.835,124.208,183893,1wAhOK9W1T0GqC6pM44jMk,Amaken,Various Artists,Journey to the Middle East,1wAhOK9W1T0GqC6pM44jMk
+234,0.538,1,0.461,5,-10.137,0.044,0.759,0.838,0.11,0.243,103.183,396200,6U8IWJDdiHP4PehqHeWFIt,"Granada (feat. Peter Herbert, Bachar Khalife & Rami Khalife)",Marcel Khalifa,Caress,6U8IWJDdiHP4PehqHeWFIt
+235,0.412,0,0.381,2,-13.18,0.0771,0.881,0.854,0.0927,0.145,135.057,398947,2M7jHKQKDIhjKSux7zzbdC,Taqasim Rast,Hazem Shaheen,Things That I Miss,2M7jHKQKDIhjKSux7zzbdC
+236,0.374,0,0.0729,2,-20.131,0.0423,0.302,0.835,0.099,0.105,160.149,164747,1nitSMLRzqf3otw2pgm5sj,Mona,Amr Ismail,Wahed Men El Nass,1nitSMLRzqf3otw2pgm5sj
+237,0.493,1,0.457,8,-13.01,0.0359,0.82,0.0997,0.247,0.757,91.618,310200,5dnuB3mLE8t27y4KptSG3D,Sa'alouni El Nass,Ziad Rahbani,Instrumental Arabic Festival,5dnuB3mLE8t27y4KptSG3D
+238,0.569,0,0.54,5,-8.708,0.0692,0.435,0.961,0.0575,0.679,107.977,217573,7KXHroyyOXSUYCrxfZaLXu,Samra Ya Samra,Various Artists,Arabian Oud 2,7KXHroyyOXSUYCrxfZaLXu
+239,0.604,0,0.778,0,-10.621,0.0306,0.114,0.96,0.4,0.941,140.01,214734,56SrLke9zCBz7S9ZJBCY4Q,Um Ali,Zade,Mediterrani,56SrLke9zCBz7S9ZJBCY4Q
+240,0.434,0,0.413,2,-7.903,0.0528,0.482,0.0376,0.436,0.563,104.012,648594,237QgiwfViCWxCbvsUdSLk,Ya Salam Ya Sett,Dr. Maged Sorour,El Asateza (Arabian Music Masters),237QgiwfViCWxCbvsUdSLk
+241,0.496,1,0.108,7,-18.331,0.17,0.941,0.85,0.098,0.145,95.888,744800,2npKHElEmnAr1gVThBCX62,Segah,Majid Nazempour,Philosophy,2npKHElEmnAr1gVThBCX62
+242,0.254,0,0.282,2,-16.92,0.039,0.959,0.863,0.146,0.239,158.989,242513,0xw1cR2CSgf1VfjLt2WzJh,Careless Whisper and Wahashtini,Maan Hamadeh,"In Different Tastes, Vol. 4",0xw1cR2CSgf1VfjLt2WzJh
+243,0.587,0,0.184,7,-18.954,0.0308,0.814,0.951,0.0827,0.495,128.386,272240,0yMFpBNCYXqwwOAg23bC8a,Houdou Nisbi,Ziad Rahbani,Houdou Nisbi,0yMFpBNCYXqwwOAg23bC8a
+244,0.353,0,0.373,2,-14.445,0.0318,0.192,0.759,0.153,0.325,127.958,288253,43nuspqDs1HRSkxBZoYEJj,Mama's Song,Zade,Zade,43nuspqDs1HRSkxBZoYEJj
+245,0.417,0,0.155,0,-19.764,0.0718,0.979,0.813,0.109,0.536,178.616,210000,0uKD8j8o1aMirOD6D9xKn9,Ya Hnayina,Ziad Rahbani,Instrumental Arabic Festival,0uKD8j8o1aMirOD6D9xKn9
+246,0.555,1,0.277,0,-15.255,0.03,0.369,0.899,0.319,0.533,95.977,220533,4VFyD5NdZDntUXa5OvgsPA,Jayebli Salam,Ziad Rahbani,Instrumental Arabic Festival,4VFyD5NdZDntUXa5OvgsPA
+247,0.544,0,0.222,8,-16.205,0.0359,0.684,0.893,0.126,0.643,91.191,222067,6hsUGEUOqomfOmODmybdfS,Ichtakna A Loubnan,Ziad Rahbani,Instrumental Arabic Festival,6hsUGEUOqomfOmODmybdfS
+248,0.458,0,0.472,11,-17.291,0.0392,0.454,0.932,0.212,0.862,101.582,137533,30G5fhjZdNGnvipPGIrbqm,Tal'aa Min Beit Abouha,Ziad Rahbani,Instrumental Arabic Festival,30G5fhjZdNGnvipPGIrbqm
+249,0.515,1,0.371,2,-16.442,0.0685,0.304,0.199,0.382,0.274,120.35,2057280,7dcbpFC0uA3heCz0z2uvjt,Bellydance Seduction,Ziad Rahbani,Bellydance Seduction,7dcbpFC0uA3heCz0z2uvjt
+250,0.286,0,0.301,7,-14.054,0.0331,0.302,0.764,0.151,0.22,133.503,362600,5xI9iSUperHMYFzkpfF12V,Kol Dah Kan Leih,Omar Khairat,Wahabeyat Gedida,5xI9iSUperHMYFzkpfF12V
+251,0.499,0,0.324,4,-12.649,0.0439,0.74,0.697,0.226,0.867,173.112,195747,0wq45hP23wftYYNG6OvIjZ,Farah,Basel Zayed,Ayn Trio,0wq45hP23wftYYNG6OvIjZ
+252,0.48,0,0.504,7,-8.607,0.0355,0.563,0.897,0.678,0.526,135.677,234333,2nYyJzW6tlhPWpy5v5XR97,Lyali Lobnan,The Arab Orchestra Of Nazareth,Live In Nazareth,2nYyJzW6tlhPWpy5v5XR97
+253,0.333,1,0.185,0,-16.674,0.038,0.727,0.931,0.0738,0.205,132.051,277800,3h8o05iiD3UPk1XnVZEGAw,Saraab,Simon Shaheen & Qantara,Blue Flame,3h8o05iiD3UPk1XnVZEGAw
+254,0.3,1,0.136,1,-18.552,0.0516,0.695,0.866,0.432,0.405,121.071,245800,0zRizkWLKNfgHgybCt3uYW,Sama'i Baghdad,Rahim AlHaj,Little Earth,0zRizkWLKNfgHgybCt3uYW
+255,0.443,0,0.418,2,-8.359,0.0354,0.487,0.216,0.349,0.358,96.938,833086,3JCqDE5tG9e1MV9Mt2otge,Seeret El Hob,Dr. Maged Sorour Takht Ensemble,El Takht,3JCqDE5tG9e1MV9Mt2otge
+256,0.557,1,0.325,9,-15.081,0.0538,0.895,0.888,0.347,0.281,79.371,269551,3374nqNtSOSDlM9nQUCMyI,The Road to Sahara,Kader Fahem,The Road to Sahara,3374nqNtSOSDlM9nQUCMyI
+257,0.604,1,0.48,1,-11.629,0.0349,0.0966,0.0163,0.21,0.746,105.439,161467,4Bu0yFiNfikzO0QStUMCtT,Sweet Eyes,Elias Rahbani,Mosaic of the Orient,4Bu0yFiNfikzO0QStUMCtT
+258,0.352,0,0.537,10,-7.178,0.173,0.074,1.3e-06,0.0939,0.732,180.729,411400,6Ry4cZ8SF6gQAuyg2kDroA,Ya Salat El Zien,Zakariya Ahmed,Arabian Nights (Traditional Arabic Music),6Ry4cZ8SF6gQAuyg2kDroA
+259,0.704,0,0.807,9,-3.747,0.391,0.147,0.000257,0.027,0.834,181.121,180220,31xrmfXket0kQGonDJegWC,Baladi Safar,Armen Kusikian,Baladi Safar,31xrmfXket0kQGonDJegWC
+260,0.526,0,0.531,7,-10.881,0.0322,0.803,0.0682,0.134,0.814,135.447,311159,6XWMnAy92jfQU7nq2LKljQ,توبة توبة,Music,رقص شرقى 4,6XWMnAy92jfQU7nq2LKljQ
+261,0.683,1,0.943,9,-7.685,0.0423,0.229,0.632,0.0615,0.961,96.985,228995,06opnT78jEwrr7Gm1iJxGw,Electronica Belly Dance,Mezdeke,New Mezdeke,06opnT78jEwrr7Gm1iJxGw
+262,0.541,1,0.471,0,-12.361,0.0789,0.908,0.915,0.113,0.577,173.916,224754,3wkLFldZsmSgyryaWmLhYP,Lovely Yous,Karim Baggili,"Apollo You Sixteen, Pt. 2",3wkLFldZsmSgyryaWmLhYP
+263,0.488,0,0.107,5,-18.577,0.0376,0.964,0.919,0.11,0.207,152.605,354200,62PF6O7bcPg4Zi8yBDjyad,Halfaouine,Anouar Brahem Trio,Astrakan Café,62PF6O7bcPg4Zi8yBDjyad
+264,0.403,1,0.595,2,-7.933,0.0383,0.396,0.123,0.278,0.572,115.994,274573,2NWT3jNqFC7FHeTzQhniE5,Allı Garrah,Murat Sakaryalı,My Violin,2NWT3jNqFC7FHeTzQhniE5
+265,0.674,0,0.595,10,-8.881,0.0335,0.627,0.14,0.283,0.584,133.934,336367,7ebwV0cwsc6pf19UJE1zGH,Qadeyet Am Ahmed,Omar Khairat,Am Ahmed,7ebwV0cwsc6pf19UJE1zGH
+266,0.36,0,0.294,0,-12.018,0.0268,0.936,0.915,0.103,0.123,79.915,159616,3qJf0DUbJ9frt5cPjoyWyf,زي الشمس (موسيقي التتر),أسامة الهندي,زي الشمس (موسيقي التتر),3qJf0DUbJ9frt5cPjoyWyf
+267,0.336,1,0.332,0,-17.794,0.0694,0.802,0.94,0.109,0.296,86.45,198400,0KZdkSChCmUrUP3m5nZ05A,Hijaz,Aarif Jaman,Oud (The Legend of Arabic Music),0KZdkSChCmUrUP3m5nZ05A
+268,0.45,0,0.822,11,-9.214,0.0414,0.746,0.95,0.215,0.847,97.627,181241,1CONw9TADKjNBnWCWe9bKx,Taksim Layali,Various Artists,Arabian Fantasy: The Seductive Sounds of Arabia and Beyond,1CONw9TADKjNBnWCWe9bKx
+269,0.453,0,0.563,5,-5.964,0.0438,0.837,0.922,0.103,0.722,124.033,186387,0JwJ6Oe2gidnBCtYptTPpY,Minny Shbida - Iraqi Folk Song,Munir Bashir,Masters of Oud,0JwJ6Oe2gidnBCtYptTPpY
+270,0.453,0,0.149,7,-23.521,0.0528,0.849,0.932,0.261,0.304,114.804,421480,7FI4GNCpplLLHihNZPOwKW,Opening Day,Anouar Brahem,Blue Maqams,7FI4GNCpplLLHihNZPOwKW
+271,0.575,1,0.61,0,-8.398,0.0375,0.18,0.604,0.133,0.868,111.279,142000,5qbFAl63p3t9VnqwOMoeUo,Gateway To Arabia,Jehan,Spirit Dancer,5qbFAl63p3t9VnqwOMoeUo
+272,0.22,1,0.297,7,-19.138,0.0397,0.947,0.953,0.105,0.036,109.898,153736,2KdvXV5xpuEfUZ0lhgWqoE,The Fire Within,Invadable Harmony,The Fire Within,2KdvXV5xpuEfUZ0lhgWqoE
+273,0.613,1,0.517,0,-9.872,0.0946,0.526,0.0464,0.118,0.41,159.281,302362,1XUrOXYJ41NDOa7ZqqL87W,El Hob Halal,Hossam Ramzy,Secrets of the Eye,1XUrOXYJ41NDOa7ZqqL87W
+274,0.332,0,0.506,0,-9.751,0.0283,0.697,0.909,0.172,0.448,138.306,228733,51oI3bAXgoesNi9DelBo7l,Darigh Nur,Mario Kirlis,Mario Kirlis Junto A Saida,51oI3bAXgoesNi9DelBo7l
+275,0.462,1,0.442,5,-6.94,0.0421,0.82,0.133,0.0484,0.345,121.1,393093,21xKzegV3nHEhQwzY9PXGT,Enta Omri I,Hossam Ramzy Egyptian Ensemble,Best of Om Kolthoum and Mohammed Abdul Wahab,21xKzegV3nHEhQwzY9PXGT
+276,0.587,1,0.773,3,-6.729,0.0312,0.622,0.443,0.0662,0.882,161.686,309947,7dBvqbITzcXbnRzqSOq0zU,Lat jaf,Mario Kirlis,Musica Arabe Instrumental Vol. IX,7dBvqbITzcXbnRzqSOq0zU
+277,0.553,1,0.181,0,-18.66,0.0495,0.928,0.885,0.117,0.208,99.314,199915,6L2bEs1cVKWZg8a9bM8E8Q,De Tunis à Kélibia,Abderraouf Ouertani,Contes d'un misérable luth,6L2bEs1cVKWZg8a9bM8E8Q
+278,0.78,0,0.639,0,-10.901,0.0344,0.284,0.752,0.143,0.93,120.027,317695,3rA7lj4rEG4iEQuHW4BmjP,Voyage dans un rêve,Mohamed Rouane,Heureux dans la tristesse,3rA7lj4rEG4iEQuHW4BmjP
+279,0.514,0,0.301,7,-15.452,0.0315,0.869,0.759,0.16,0.593,127.243,200805,0tIsVCNokJXs6tUpnOZNDg,Aziza (Egypt),Various Artists,Eastern Guitar / The Best Turkish & Arabic melodies,0tIsVCNokJXs6tUpnOZNDg
+280,0.529,0,0.198,7,-19.192,0.0378,0.926,0.884,0.0997,0.388,115.107,521880,6NAXW6IwUyswJk9bHe4y9S,The Astounding Eyes Of Rita,Anouar Brahem,The Astounding Eyes Of Rita,6NAXW6IwUyswJk9bHe4y9S
+281,0.286,0,0.266,9,-12.379,0.0343,0.943,0.807,0.171,0.166,77.29,204892,5acm2OlsZ4quifdVDWnNTm,El Erhabi Mashhad El Hob,Omar Khairat,Rabsoudeya Arabeya,5acm2OlsZ4quifdVDWnNTm
+282,0.407,1,0.218,5,-18.617,0.1,0.832,0.742,0.128,0.423,82.654,270000,7oKNJvbbgrbpKVNVJdgEDd,Al Sabah,Aarif Jaman,Oud (Vol. 1),7oKNJvbbgrbpKVNVJdgEDd
+283,0.723,1,0.571,2,-10.391,0.0396,0.000337,0.805,0.0739,0.231,104.988,366024,5sZMt3qiSaQPZzf2RVuP3m,Amal - Original,Canson,Summer Sol IV,5sZMt3qiSaQPZzf2RVuP3m
+284,0.405,0,0.536,7,-6.325,0.0343,0.603,0.155,0.3,0.597,134.121,217060,6Bm0WJhtfL7HfNFBzD1izs,El Neel El Dafy,Various Artists,Arabian Journey (Music of Arabia),6Bm0WJhtfL7HfNFBzD1izs
+285,0.573,1,0.841,0,-5.339,0.0298,0.745,0.532,0.0744,0.915,141.6,231747,5M2t8LTjw5xgk1jQ9W45KE,Al Rababa,Various Artists,Arabian Flavours,5M2t8LTjw5xgk1jQ9W45KE
+286,0.534,1,0.89,1,-6.985,0.0954,0.761,0.953,0.052,0.486,179.134,259840,3w82xsao1tCdBmQlALGAov,Wahet El Hob,Various Artists,Arabian Flavours,3w82xsao1tCdBmQlALGAov
+287,0.879,0,0.323,2,-13.466,0.0845,0.811,0.899,0.0878,0.725,100.109,179493,3Cf76fKRKaGB1DPNCYHX5r,El Hara,Various Artists,Arabian Flavours,3Cf76fKRKaGB1DPNCYHX5r
+288,0.469,1,0.672,5,-10.035,0.0427,0.8,0.942,0.179,0.602,116.387,205173,2V5Y5HQTeybCg2wbloKtoJ,Howa Saheh El Hawa Ghalab,Various Artists,Arabian Flavours,2V5Y5HQTeybCg2wbloKtoJ
+289,0.546,0,0.714,7,-4.474,0.0371,0.609,0.836,0.253,0.908,133.694,161657,6vOPjPCUrxj7VyQEi3QEql,Longa Reyadh,Various Artists,Arabian Flavours,6vOPjPCUrxj7VyQEi3QEql
+290,0.508,1,0.338,0,-16.183,0.0864,0.957,0.889,0.0756,0.784,99.758,504627,5RKUgDHo4DrJDRhhk1qACx,Zenobia,Various Artists,Arabian Flavours,5RKUgDHo4DrJDRhhk1qACx
+291,0.715,1,0.38,7,-13.484,0.0723,0.779,0.78,0.115,0.398,93.154,213162,0tprPxTs7F83R2CA1RTk84,Borders Behind,Adnan Joubran,Borders Behind,0tprPxTs7F83R2CA1RTk84
+292,0.559,1,0.92,5,-8.834,0.228,0.254,0.404,0.098,0.488,159.452,314463,2BGZgnZCcrHOAb6gzT0T2o,Accordion & Tabla Solo,Dr Samy Farag,"Cairo Nights, Vol. 5",2BGZgnZCcrHOAb6gzT0T2o
+293,0.417,1,0.105,9,-23.602,0.0395,0.985,0.507,0.108,0.109,80.492,456908,3QprYEEqyBcmQvKp0bvqu2,Waffa,Basel Rajoub,The Queen of Turquoise,3QprYEEqyBcmQvKp0bvqu2
+294,0.537,1,0.613,7,-12.88,0.0364,0.604,0.814,0.711,0.906,96.766,281640,5ZQrpGYzXt6Foat3mZOTDz,Chutwat Habibi (Steps of My Beloved),Ziryab Trio,Oriental Art Music,5ZQrpGYzXt6Foat3mZOTDz
+295,0.459,0,0.364,7,-13.189,0.0391,0.669,0.827,0.282,0.647,116.187,401040,0cQGLbALsfDdJBlr1crFWi,Sama'i Farahfaza,Simon Shaheen,Turath,0cQGLbALsfDdJBlr1crFWi
+296,0.202,0,0.0326,9,-25.125,0.037,0.968,0.881,0.246,0.0383,79.541,761000,7wwtczxMZsAXbAfW2dl1gp,Improbable Day,Anouar Brahem,Souvenance,7wwtczxMZsAXbAfW2dl1gp
+297,0.91,1,0.812,0,-7.063,0.0596,0.325,0.771,0.143,0.962,109.97,232053,5OSZ8MztrXHyX9aPY1nRqn,Boulaq,Various Artists,El Qahera (Arabian Egyptian Music Inspired by Cairo),5OSZ8MztrXHyX9aPY1nRqn
+298,0.318,0,0.482,2,-15.274,0.0366,0.105,0.751,0.12,0.296,76.244,282040,7FZuNWKrHBFCjYNrULSdlz,Tasabíh,Various Artists,"Ibn Arabí, Morada de la Luz",7FZuNWKrHBFCjYNrULSdlz
+299,0.296,0,0.0699,2,-24.145,0.0423,0.964,0.955,0.0748,0.307,143.027,422027,2LK3RisRlG4WkUwq6cnhYW,Your love is my cure,Hassan Isikkut,"Keane, Brian / Tekbilek, Omar Faruk: Beyond The Sky",2LK3RisRlG4WkUwq6cnhYW
+300,0.422,0,0.493,2,-7.364,0.0806,0.425,0.441,0.0731,0.742,183.86,243920,6TYEePoysw2d6CtNdrnEWv,Little Baladi,Mario Kirlis,Mario Kirlis Junto A Saida,6TYEePoysw2d6CtNdrnEWv
+301,0.448,1,0.681,8,-6.582,0.0502,0.722,0.417,0.106,0.779,102.62,239653,4rjzJ2KeUb3d2OMzvr2Ngb,Awal Ashrid Mahboobi,Salatin Al Tarab Orchestra,Arabian Classics for Belly Dance,4rjzJ2KeUb3d2OMzvr2Ngb
+302,0.614,1,0.879,1,-3.47,0.034,0.66,0.0767,0.183,0.879,131.129,234560,6ksKDvPS83wJfPXmQEAP0V,Win Ya Galob,Omar Bashir,The Dancing Oud,6ksKDvPS83wJfPXmQEAP0V
+303,0.492,0,0.514,0,-12.214,0.0287,0.806,0.442,0.164,0.598,100.317,270341,6hyVDc7MYk4JWmsfIZGIRq,Kasakess Warak,Ziad Rahbani,Bil Afrah,6hyVDc7MYk4JWmsfIZGIRq
+304,0.694,0,0.383,0,-13.993,0.0437,0.634,0.237,0.0622,0.712,157.477,283450,4YojaiWyClDT9I2BfmnIhB,Iraqi Jazz,Various Artists,Journey to the Middle East,4YojaiWyClDT9I2BfmnIhB
+305,0.432,0,0.787,4,-5.305,0.0484,0.243,0.0454,0.308,0.817,141.045,397587,3GOEJ8WLzm3pg7dGIk4Rkr,Ushaq Masri,Mario Kirlis,Al Qawa,3GOEJ8WLzm3pg7dGIk4Rkr
+306,0.601,1,0.518,8,-6.215,0.0886,0.747,0.834,0.107,0.431,108.776,314907,5KYHlpEhtXiVNk7IGpnVxt,Darawish Dance,Omar Bashir,The Dancing Oud,5KYHlpEhtXiVNk7IGpnVxt
+307,0.386,1,0.0214,2,-27.996,0.0653,0.988,0.915,0.141,0.0946,116.319,195640,3yoSgtStHsZwDuS9pC0ZuU,Astrakan café - 1,Anouar Brahem Trio,Astrakan Café,3yoSgtStHsZwDuS9pC0ZuU
+308,0.426,0,0.616,0,-6.494,0.0344,0.384,0.0136,0.323,0.712,163.97,269280,4Qzi2AdU8oiicIxm6NWhqe,Iam Safer Wahdak,Mario Kirlis,Al Qawa,4Qzi2AdU8oiicIxm6NWhqe
+309,0.393,1,0.0922,0,-16.42,0.0413,0.953,0.907,0.112,0.133,142.033,235018,6qYXxH2P5mmsrZmB66AEXQ,The Sun Still Shines,Joseph Tawadros,Betrayal of a Sacred Sunflower,6qYXxH2P5mmsrZmB66AEXQ
+310,0.418,1,0.689,9,-8.387,0.032,0.597,0.82,0.184,0.665,129.846,300533,4ODSKLrwOn234N5lB9Wl3R,Ahlam Ghernatah (Memories of old Granada),Hossam Ramzy,Flamenco Arabe,4ODSKLrwOn234N5lB9Wl3R
+311,0.795,1,0.868,0,-6.752,0.0978,0.0607,0.0,0.075,0.896,95.001,274201,7JzT0dPmQBVF6hSqiijpBM,Nour El Chames,Pascale Machaalani,Ma Fi Nom,7JzT0dPmQBVF6hSqiijpBM
+312,0.542,0,0.424,2,-12.601,0.041,0.905,0.92,0.106,0.694,113.743,243067,40ElAAmsXm1CXyLPQUaVkS,Moustique,3MA,Anarouz,40ElAAmsXm1CXyLPQUaVkS
+313,0.26,0,0.218,7,-10.849,0.0353,0.673,0.942,0.116,0.0547,64.012,639000,0Sy2FEb4SM0EEZZPCZTolt,Beirut,Ibrahim Maalouf,Diagnostic (Version remasterisée),0Sy2FEb4SM0EEZZPCZTolt
+314,0.645,0,0.79,10,-6.221,0.074,0.0316,0.932,0.0591,0.365,114.056,155642,7DVN32CZXHI4hb88wiYV0q,Roman Perküsyon,Nedim Keskin,Firouza,7DVN32CZXHI4hb88wiYV0q
+315,0.329,0,0.679,7,-7.581,0.0397,0.065,0.000333,0.313,0.375,109.571,210338,3gpb1DXZADyC9C3z8xvRpc,Egypt,Various Artists,Mehdi Rajabian: Middle Eastern,3gpb1DXZADyC9C3z8xvRpc
+316,0.485,0,0.271,9,-17.527,0.0525,0.873,0.821,0.0941,0.635,100.684,224373,1a0a5VltBImcUUfwN593ra,Fever,Mahmoud Amer,El Waha (Arabian Mystical Music on the Oud),1a0a5VltBImcUUfwN593ra
+317,0.51,0,0.418,4,-10.266,0.0635,0.961,0.364,0.138,0.452,136.089,342440,0aCcPGwIDWWXDSzeerVVGA,Shagan,Abdallah Helmey,Takasim Kawala 2,0aCcPGwIDWWXDSzeerVVGA
+318,0.431,1,0.232,5,-18.245,0.0809,0.796,0.811,0.307,0.602,64.241,245293,3IWbOMlXVlFUE4TWoKYGAt,Al Jamal,Aarif Jaman,Oud (Vol. 2),3IWbOMlXVlFUE4TWoKYGAt
+319,0.39,0,0.194,9,-14.938,0.0347,0.874,0.712,0.113,0.447,89.669,376067,2z8HjkjRE1b0MSfloJ63Nl,Waiting,Basel Zayed,Ayn Trio,2z8HjkjRE1b0MSfloJ63Nl
+320,0.577,1,0.708,0,-10.299,0.0609,0.689,0.897,0.0903,0.785,175.211,376883,25NsHfN4I9oO75civGvVOj,Fatoma,Ammar El Sheraie,El Bahr Bydhak Leah,25NsHfN4I9oO75civGvVOj
+321,0.319,0,0.531,2,-5.651,0.0358,0.929,0.192,0.0942,0.235,112.218,350739,1rwE3gokLyFaQEmcgzdOPm,Sad Violin 7,Yasser Farouk,"Sad Ney & Violin, Vol. 2 (Instrumental Music)",1rwE3gokLyFaQEmcgzdOPm
+322,0.471,0,0.506,7,-11.049,0.0313,0.393,0.465,0.148,0.791,95.712,452559,1YF0DRzvXTdS9GfA2sa9y8,Ana Fe Entizarak,Ammar El Sheraie,Ya Salam Ya Set 2,1YF0DRzvXTdS9GfA2sa9y8
+323,0.774,0,0.405,2,-10.116,0.0323,0.766,0.885,0.418,0.611,118.025,186053,65M0mYnUDwfj0VaLBSQgdi,Sweet Pain,Nasser Shibani,Sweet Pain,65M0mYnUDwfj0VaLBSQgdi
+324,0.492,1,0.175,7,-20.453,0.0419,0.886,0.834,0.101,0.346,129.958,87160,2ue6CQQQcAEU80MsZRyp0D,Takasim,Trio Abozekrys,Don’t Replace Me by a Machine,2ue6CQQQcAEU80MsZRyp0D
+325,0.681,0,0.876,9,-6.453,0.0683,0.223,0.868,0.118,0.628,92.022,377000,6uc2veAW3Kffi2UUCulrzx,Mediterranean Sunset,Billy Esteban,Mediterranean Sunset,6uc2veAW3Kffi2UUCulrzx
+326,0.551,0,0.243,3,-15.247,0.0342,0.706,0.865,0.163,0.614,91.157,223200,3fv5N5OgbqGcMT11TBebTR,Eshtakna A Loubnan - Instrumental,Zaki Nassif,Eshtakna A Loubnan - Ya Ashikat El Ward,3fv5N5OgbqGcMT11TBebTR
+327,0.522,1,0.493,10,-13.831,0.0336,0.294,0.881,0.105,0.466,159.937,212011,33VG2OsFJd0uor31zqbFef,High Spirits,Ahmed Nazmi,Shams,33VG2OsFJd0uor31zqbFef
+328,0.814,0,0.813,7,-5.391,0.111,0.255,0.5,0.0515,0.707,94.997,305800,0OBGVGVqh38FdA2n409lDc,Oriental Quartet,Murat Sakaryalı,Gigi Dilşah (Oriental Belly Dance),0OBGVGVqh38FdA2n409lDc
+329,0.48,0,0.384,2,-14.524,0.0337,0.953,0.873,0.104,0.463,114.052,204173,2d9svWE9fl91DcoP5XsYdf,Angel Suite in D: Spinning Round,Joseph Tawadros,Angel,2d9svWE9fl91DcoP5XsYdf
+330,0.373,0,0.254,9,-14.077,0.0294,0.977,0.685,0.0841,0.262,90.871,249413,1Qj2M4wPVRpXePOgoH2sbK,Zay El Hawa 1,Omar Khairat,Al Leqaa Althany,1Qj2M4wPVRpXePOgoH2sbK
+331,0.566,1,0.398,10,-6.449,0.0727,0.88,0.501,0.411,0.451,89.285,406787,2uB0x4OFD9mw9xgLQMJWWR,Howa Saheh,Various Artists,"Arabic Relaxation Music, Vol. 3",2uB0x4OFD9mw9xgLQMJWWR
+332,0.39,0,0.407,0,-8.876,0.0362,0.613,0.804,0.214,0.511,97.154,339011,0vUbPwHtr0w6PcJ5xxLKF2,Zekrayat,Various Artists,"Arabic Relaxation Music, Vol. 3",0vUbPwHtr0w6PcJ5xxLKF2
+333,0.429,1,0.302,0,-19.003,0.0402,0.223,0.0197,0.19,0.57,106.39,495721,0tRA5ukf8Rxxttscn0EqIg,Lessa Faker 2 Instrumental Zither,Music,Instrumental Zither Vol.1,0tRA5ukf8Rxxttscn0EqIg
+334,0.542,1,0.446,0,-9.049,0.0403,0.548,0.455,0.215,0.65,110.154,304067,2L53jppMhBcp6d0tTuyT64,Lissa Fakir,Mokhtar al Said,Jalilah's Raks Sharki 1: Classic Egyptian Dance Music,2L53jppMhBcp6d0tTuyT64
+335,0.522,0,0.549,0,-7.084,0.0594,0.363,0.00558,0.607,0.556,118.848,267280,1kS5GeUbyGYy9sn43qOjHF,Zeina,Cairo Orchestra,Belly Dance Classics with Fifi Abdo,1kS5GeUbyGYy9sn43qOjHF
+336,0.469,1,0.674,5,-10.03,0.0431,0.807,0.936,0.195,0.591,116.352,205173,20c6CqK8bYP6t6OxVFaAZS,Howa saheh el hawa ghalab,Various Artists,"Belly Dancing Classics, Vol. 5",20c6CqK8bYP6t6OxVFaAZS
+337,0.522,1,0.242,0,-18.724,0.0791,0.918,0.895,0.11,0.141,139.783,445466,7ulFKo8nwLDdPfM9vJBTks,"La médina perdue, Tunis",Abderraouf Ouertani,Contes d'un misérable luth,7ulFKo8nwLDdPfM9vJBTks
+338,0.426,1,0.872,5,-7.387,0.0693,0.0481,0.788,0.131,0.65,150.008,360507,7uUL0SdR1gfVkcSJMEEz1h,"Oriental Journey, Pt. 2",Murat Sakaryalı,Gigi Dilşah (Oriental Belly Dance),7uUL0SdR1gfVkcSJMEEz1h
+339,0.473,0,0.987,4,-5.134,0.053,0.134,0.353,0.0433,0.416,103.665,313187,3DjZJIsFjy68snfd9lhIMI,Ya Ein Molaytain,Various Artists,Greatest Dabkeh Album,3DjZJIsFjy68snfd9lhIMI
+340,0.879,0,0.323,2,-13.466,0.0845,0.811,0.899,0.0878,0.725,100.109,179493,05Omvv3rGDr2PpM0zIM2rA,El Hara,Various Artists,El Qahera (Arabian Egyptian Music Inspired by Cairo),05Omvv3rGDr2PpM0zIM2rA
+341,0.518,0,0.472,0,-7.519,0.0763,0.287,0.0892,0.167,0.386,91.879,274000,436JMpf7rCPJSQU0rAwt5X,Ya Mesafer Wahdak,Various Artists,El Qahera (Arabian Egyptian Music Inspired by Cairo),436JMpf7rCPJSQU0rAwt5X
+342,0.731,1,0.791,0,-4.485,0.03,0.698,0.0608,0.0778,0.744,129.995,310100,2tSsNEsvBaUvOXhgbesbsi,"Habibi we enaya (My Beloved, the Apple of My Eye)",Hossam Ramzy,Quanun el tarab,2tSsNEsvBaUvOXhgbesbsi
+343,0.608,0,0.596,6,-7.398,0.036,0.811,0.723,0.0665,0.665,95.073,428227,09uhQq8pa82G9aQGWc3jWV,Al Quantara (the Bridge),Hossam Ramzy,Flamenco Arabe,09uhQq8pa82G9aQGWc3jWV
+344,0.707,0,0.557,5,-8.848,0.0356,0.185,0.901,0.0999,0.124,113.023,263367,5L4YMktQZVQcVZnCHFNymD,Worlds Apart,Ash,Worlds Apart,5L4YMktQZVQcVZnCHFNymD
+345,0.38,0,0.426,2,-11.371,0.0603,0.476,0.0325,0.0711,0.166,164.128,227032,2u1FAYpXkg10hHqoIMYZ6J,"Ya Betfaker Ya Bethes, Azmit Siaa",Andre Soueid,"Violin Cover, Vol. 1",2u1FAYpXkg10hHqoIMYZ6J
+346,0.599,0,0.358,7,-13.918,0.0887,0.915,0.871,0.101,0.346,108.914,301250,3KTlgQJ3ikwlM6EcqvYfvw,Nafas,Haytham Safia,Two Elements,3KTlgQJ3ikwlM6EcqvYfvw
+347,0.47,1,0.725,7,-7.956,0.0482,0.333,0.834,0.195,0.681,150.065,307507,0fdPMnDlPqENzWgESF5ecp,Abel Nahardak,Mario Kirlis,Oriental Dreams,0fdPMnDlPqENzWgESF5ecp
+348,0.654,1,0.791,0,-6.901,0.0375,0.52,0.937,0.175,0.683,101.543,187480,682zK6ZZjR7C9c2QUrCxKg,Sunrise,Marcel Khalifa,Stripped Bare,682zK6ZZjR7C9c2QUrCxKg
+349,0.578,0,0.586,7,-12.182,0.0343,0.603,0.886,0.189,0.39,137.04,131627,2HxlijuUzzXg7gv2qSwcCi,Hekaiat El-Ghareb - Part 1,Yasser Abdel Rahman,Nasser 56,2HxlijuUzzXg7gv2qSwcCi
+350,0.537,1,0.541,2,-6.723,0.0396,0.315,0.123,0.214,0.379,121.136,431160,4micPu7RHU5bZiAH7fSDtf,Sawah,Azzedine El Maghrabi,Andalib El Asmar,4micPu7RHU5bZiAH7fSDtf
+351,0.652,0,0.502,0,-10.222,0.0266,0.771,0.805,0.171,0.523,130.06,237221,4oY9RFpu5gKlVDcGlitRHU,Darigh Sharyn,Mario Kirlis,Oriental Dreams,4oY9RFpu5gKlVDcGlitRHU
+352,0.406,0,0.385,0,-11.297,0.137,0.817,0.806,0.107,0.515,79.045,723347,1vvSYFSKMRUQTv9jaM6IyO,Improvisation / Oum El Rouba,Omar Bashir,To My Father,1vvSYFSKMRUQTv9jaM6IyO
+353,0.773,1,0.73,6,-8.491,0.0328,0.522,0.435,0.16,0.702,135.013,161573,4IserCYv6mwMYVdX0IfDyZ,El Hakkale,Gizira Band,Ya Halawa,4IserCYv6mwMYVdX0IfDyZ
+354,0.318,0,0.391,7,-12.297,0.0485,0.118,0.536,0.105,0.048,77.508,188197,3AdLepnTCbOsziVw7zhmfl,"Aa Bali Habibi, Krahni, Betmoun",Andre Soueid,"Violin Cover, Vol. 1",3AdLepnTCbOsziVw7zhmfl
+355,0.413,0,0.27,0,-13.05,0.0475,0.857,0.832,0.131,0.62,87.643,762533,0Tb8boJQSEHa0elRSNjIej,Hanân,Munir Bashir,Duo de 'ûd,0Tb8boJQSEHa0elRSNjIej
+356,0.491,1,0.408,10,-12.516,0.0437,0.55,0.853,0.169,0.55,119.02,352307,5GcHFHzHtjEAMvOTAAdJHn,Sama'I Kurd,Simon Shaheen,Turath,5GcHFHzHtjEAMvOTAAdJHn
+357,0.305,0,0.129,5,-15.669,0.0374,0.829,0.906,0.0937,0.0397,111.686,565467,6XiuoPQCJvurMVK0KlJoW2,Letter 4. The Last Time We Will Fly Birds – Riyadh,Rahim AlHaj,Letters from Iraq: Oud and String Quintet,6XiuoPQCJvurMVK0KlJoW2
+358,0.482,0,0.122,5,-18.868,0.0707,0.902,0.698,0.694,0.119,92.961,522827,32t0p3hwSTSltn7H1R0bod,Sukûn al-layl fî Baghdad,Naseer Shamma,The Baghdad Lute,32t0p3hwSTSltn7H1R0bod
+359,0.448,1,0.713,5,-9.665,0.0433,0.75,0.959,0.124,0.925,88.424,290840,3QbUgy36gIhtuXnjATaJA0,Ha'ablo Bokra,Mohamed El Asabgy,The Oud Master,3QbUgy36gIhtuXnjATaJA0
+360,0.48,0,0.634,1,-8.939,0.0392,0.415,0.00367,0.0818,0.803,102.857,204393,3HlIGnqecByWNiUd0vFRvQ,Tahtdilou Dajhat,Various Artists,Arabian Fantasy: The Seductive Sounds of Arabia and Beyond,3HlIGnqecByWNiUd0vFRvQ
+361,0.378,1,0.539,0,-7.566,0.0558,0.789,0.000395,0.382,0.332,83.106,148600,5cfRi7dtG0naTvHIbvKNXj,Mawwal Al Hawa,Sami Nossair Orchestra,Beyond the Desert,5cfRi7dtG0naTvHIbvKNXj
+362,0.517,0,0.682,5,-10.381,0.0541,0.362,0.91,0.0685,0.884,89.714,446333,1apixmuJEvgjqtLR9wZjQH,My Cairo,Trio Abozekrys,Don’t Replace Me by a Machine,1apixmuJEvgjqtLR9wZjQH
+363,0.692,1,0.469,9,-8.723,0.0361,0.586,0.851,0.307,0.457,137.978,344361,0NEnF7udT4fj0kkwB2HE3e,Someone Like You,Moseqar,Café Sessions,0NEnF7udT4fj0kkwB2HE3e
+364,0.457,1,0.416,0,-21.347,0.0322,0.651,0.891,0.107,0.118,123.044,100010,76V9bopwcw5qhWhSSxy57p,Kingdom of Sands,Invadable Harmony,Journey Through the Desert,76V9bopwcw5qhWhSSxy57p
+365,0.724,1,0.274,2,-11.455,0.0842,0.763,0.838,0.0931,0.602,153.584,260427,5Jzkmjiex62CAxEXPdwB1m,Osloop,Haytham Safia,U'Duet,5Jzkmjiex62CAxEXPdwB1m
+366,0.485,1,0.438,5,-12.689,0.0553,0.793,0.848,0.0931,0.688,165.899,333240,4qzRl8fYRz8xJWW3fjWXAC,Madar Hijaz,Nizar Rohana Trio,Furat,4qzRl8fYRz8xJWW3fjWXAC
+367,0.773,0,0.317,10,-13.506,0.0931,0.777,0.9,0.0985,0.665,163.952,450760,7qTbSKAgJ9qpnqFFkWkeIa,Hams EL Lail,Mamdouh Elgebaly,"Takasim Oud, Vol. 2",7qTbSKAgJ9qpnqFFkWkeIa
+368,0.403,0,0.0767,7,-25.91,0.063,0.954,0.877,0.0805,0.153,132.875,304680,01cKqNr7bXthzoZg39sklw,Aseman,Shahram Gholami,"Persian Oud, Dirine Delkhah",01cKqNr7bXthzoZg39sklw
+369,0.516,1,0.128,8,-18.236,0.141,0.964,0.787,0.11,0.0801,75.869,251069,0vgccJeXNDJ5KudfDDzhOu,Alhambra Arabic Moorish Princess Song for Flamenco Guitar,Andrei Krylov,"Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",0vgccJeXNDJ5KudfDDzhOu
+370,0.487,1,0.183,0,-18.455,0.0452,0.832,0.853,0.108,0.46,172.252,517200,2jzVMkRBB97R6CEU77QWFs,A Night In The Mountains,Rabih Abou-Khalil,Blue Camel,2jzVMkRBB97R6CEU77QWFs
+371,0.587,1,0.23,2,-16.656,0.0344,0.94,0.87,0.164,0.345,154.042,361840,6meYlQUQVOoFPcMdjoC8Z9,Long Wait,Omar Faruk Tekbilek,Longing,6meYlQUQVOoFPcMdjoC8Z9
+372,0.505,1,0.347,7,-9.97,0.031,0.689,0.955,0.144,0.0889,171.982,234120,2MhrdSEfjv2cjQ226BHEN5,Islands of Peace,Abdul Al Kahabir,Best of Arabian Lounge,2MhrdSEfjv2cjQ226BHEN5
+373,0.73,0,0.419,6,-8.023,0.043,0.676,0.714,0.108,0.566,94.008,232457,7r4CFRZvhDJKrGX43arGgA,Magic,Moseqar,Café Sessions,7r4CFRZvhDJKrGX43arGgA
+374,0.501,0,0.352,7,-11.356,0.0581,0.531,0.836,0.0709,0.117,146.147,331400,08OCQDuoWT1rhAWV2cGapa,Tourism,Charbel Rouhana,Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams,08OCQDuoWT1rhAWV2cGapa
+375,0.45,0,0.303,8,-7.967,0.0491,0.71,0.884,0.116,0.259,149.266,263525,6g6BYeiRxuqOCyoDneP4bi,Zerzura Theme II,Ahmoudou Madassane,Zerzura (Original Soundtrack Recording),6g6BYeiRxuqOCyoDneP4bi
+376,0.427,0,0.268,0,-11.04,0.103,0.98,0.893,0.119,0.292,74.387,190080,593oXWVJyDjwXp5kXDNDIV,Oud,Alireza Ghorbani,Singing with Swallows of Sigh,593oXWVJyDjwXp5kXDNDIV
+377,0.392,0,0.814,5,-9.605,0.0787,0.605,0.93,0.908,0.702,100.023,451760,6fq4IdmxZpoLWCdZNUw7vG,Bint El Shalabiya (Live),Aleph,Aleph Live at Olympia De Paris,6fq4IdmxZpoLWCdZNUw7vG
+378,0.396,1,0.516,2,-9.027,0.0445,0.898,0.939,0.377,0.169,95.918,182035,6xSl8Aeiv0Z9fIm0aaHJzb,Egyptian Nile,Yasser Farouk,Arabic Music,6xSl8Aeiv0Z9fIm0aaHJzb
+379,0.466,0,0.958,5,-4.199,0.0479,0.0913,0.751,0.0544,0.704,179.839,349215,0M9KszKXLp1kjRTB5td9cT,Souk Okaz,Jean-Marie Riachi,Souk Okaz,0M9KszKXLp1kjRTB5td9cT
+380,0.43,0,0.417,7,-10.712,0.0399,0.713,0.924,0.404,0.728,113.76,505373,3he5HBHXo99ttjyFBDQvV0,Longa Reyadh,Mahmoud Amer,Takaseem (Arabic Music on the Kanoun),3he5HBHXo99ttjyFBDQvV0
